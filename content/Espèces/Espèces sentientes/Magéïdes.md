@@ -1,0 +1,6 @@
+---
+liens:
+  - "[[Espèces]]"
+  - "[[Humains]]"
+  - "[[Magie]]"
+---

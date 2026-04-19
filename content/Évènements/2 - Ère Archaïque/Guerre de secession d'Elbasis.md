@@ -1,0 +1,16 @@
+---
+liens:
+  - "[[Elbasis]]"
+  - "[[Ère Archaïque]]"
+  - "[[Humains]]"
+  - "[[Le Grand-Royaume de Korrin]]"
+aat-render-enabled: true
+timelines:
+  - chronologie
+aat-event-start-date: -24
+aat-event-end-date: -19
+tags:
+  - Évènement
+  - Guerres
+  - Révolution-ou-Guerre-Civile
+---

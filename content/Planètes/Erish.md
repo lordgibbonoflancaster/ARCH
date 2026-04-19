@@ -1,0 +1,6 @@
+---
+liens:
+  - "[[Planètes]]"
+aliases:
+  - Lorus
+---

@@ -1,0 +1,13 @@
+---
+liens:
+  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Guerre des poussières]]"
+  - "[[Humains]]"
+  - "[[Ère Forgeraine]]"
+aat-render-enabled: true
+timelines:
+  - chronologie
+aat-event-start-date: 0
+tags:
+  - Évènement
+---
