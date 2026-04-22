@@ -26,7 +26,7 @@ C'est en -22 que la nation [[Vaals|vaale]], [[Le Serment]], tente de s'immiscer 
 
 [[La Hiérarchie]], alliée du Serment, s'impliquera de plus en plus dans le conflit, jusqu'à, lors de l'[[Incident de Kul'madân]] en -14, entrer en guerre ouverte avec le Grand-Royaume. Ainsi débute la terrible [[Guerre des poussières]], de -14 à 0.
 
-L'Humanité triomphera sur le papier, mais, par la faute de la colonelle [[Santhe]], doit abandonner [[Archelaus]] aux [[Méchanides]], voir exploser la seule mine d'Oru de l'univers connu lors de [[L'Éclat]], et échouer dans le génocide total des Vaals et des [[Archelans]], qui survivront à la guerre. 
+L'Humanité triomphera sur le papier, mais, par la faute de la colonelle [[Santhe]], doit abandonner [[Archelaus]] aux [[Mécanides]], voir exploser la seule mine d'Oru de l'univers connu lors de [[L'Éclat]], et échouer dans le génocide total des Vaals et des [[Archelans]], qui survivront à la guerre. 
 
 ## Déchéance et guerres civiles *(0 à 511)*
 

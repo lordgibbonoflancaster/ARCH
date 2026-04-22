@@ -3,7 +3,7 @@ liens:
   - "[[Ère Nocturne]]"
   - "[[Archelaus]]"
   - "[[1er Angon]]"
-  - "[[Méchanides|Méchanides]]"
+  - "[[Mécanides|Méchanides]]"
 aat-render-enabled: true
 timelines:
   - chronologie

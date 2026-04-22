@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Archelaus]]"
-  - "[[Méchanides]]"
+  - "[[Mécanides]]"
   - "[[Relieurs]]"
   - "[[Ère Forgeraine]]"
 aat-render-enabled: true

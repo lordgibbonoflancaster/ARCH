@@ -17,7 +17,7 @@ Kai est un État [[Archelaus|Archélaüsien]] ayant existé de l'année **0** à
 # Histoire
 ## Fondation
 
-Suite aux évènements de la fin de la [[Guerre des poussières]], les [[Archelans]] libérés par [[Santhe]], atterrirent sur [[Archelaus]], dans le nord du continent **nom à trouver**. Affamés et blessés suite à leur libération, perdus dans les forêts boréales d'Archelaus, assaillis par les [[Méchanides]], une Archelanne nommée Kai prit leur tête et dirigea ce cortège mourant vers le sud, dans ce qui sera ensuite appelé le pays Kai. Elle mourra en arrivant sur les lieux. Les légendes se battent pour savoir si elle est décédée d'inanition pour avoir laissé les vivres aux pauvres, ou de blessures suites aux conflits avec les Méchanides. 
+Suite aux évènements de la fin de la [[Guerre des poussières]], les [[Archelans]] libérés par [[Santhe]], atterrirent sur [[Archelaus]], dans le nord du continent **nom à trouver**. Affamés et blessés suite à leur libération, perdus dans les forêts boréales d'Archelaus, assaillis par les [[Mécanides]], une Archelanne nommée Kai prit leur tête et dirigea ce cortège mourant vers le sud, dans ce qui sera ensuite appelé le pays Kai. Elle mourra en arrivant sur les lieux. Les légendes se battent pour savoir si elle est décédée d'inanition pour avoir laissé les vivres aux pauvres, ou de blessures suites aux conflits avec les Méchanides. 
 
 Les survivants fondèrent sur ces lieux la première cité État, d'abord baptisée Kai (Actuelle **nom à trouver**). 
 

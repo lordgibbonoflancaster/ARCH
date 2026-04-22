@@ -1,6 +1,11 @@
-tags : [[Espèces]];
+---
+liens:
+  - "[[Espèces]]"
+  - "[[Archelaus]]"
+---
+## Résumé
 
-Les Archelans sont une espèce Humanoïde très proche des Humains. Ils sont originaires d'[[Archelaus]]. 
+Reconnaissables à leur peau, yeux et cheveux aux couleurs impossibles, les Archelans peuplent la planète [[Archelaus]]. Ils ont la particularité de pouvoir vivre indéfiniment. Chose rare, néanmoins, car la vieillesse n'est pas la seule faucheuse. Les Archelans possèdent aussi la capacité de régénérer leurs blessures de façon fulgurante, contre un coût métabolique élevé. De plus, les Archelans ont une fertilité très basse, ce qui leur causera bien des problèmes au fil des siècles et des évènements.
 
 ## Apparence et caractéristiques
 

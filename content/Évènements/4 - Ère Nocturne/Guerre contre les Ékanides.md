@@ -3,7 +3,7 @@ liens:
   - "[[Ère Nocturne]]"
   - "[[Archelaus]]"
   - "[[1er Angon]]"
-  - "[[Méchanides|Ékanides]]"
+  - "[[Mécanides|Ékanides]]"
   - "[[Phael]]"
   - "[[Kai]]"
   - "[[Beahe]]"

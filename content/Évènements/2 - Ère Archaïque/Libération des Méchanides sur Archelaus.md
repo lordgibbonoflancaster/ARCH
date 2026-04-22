@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Archelaus]]"
-  - "[[Méchanides]]"
+  - "[[Mécanides]]"
   - "[[Ère Archaïque]]"
   - "[[Guerre des poussières]]"
   - "[[Santhe]]"

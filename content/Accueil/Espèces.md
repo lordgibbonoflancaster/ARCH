@@ -10,4 +10,4 @@ Dans cet univers, plusieurs espèces vivent, s'hybrident, apparaissent et dispar
 - [[Pourfendeurs]]
 
 **Liste des espèces non-sentientes :
-- [[Méchanides]]
+- [[Mécanides]]
