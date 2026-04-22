@@ -1,16 +1,26 @@
-Voici le wiki de l'univers de ARCH. Il devra rassembler les éléments d'histoire de l'univers pour empêcher mon oubli personnel, car tout garder dans la tête peut me peser. Notamment par peur d'oublier.
+Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire de l'univers pour empêcher mon oubli personnel, car tout garder dans la tête peut me peser. Notamment par peur d'oublier.
 
- **Liste des catégories :**
-- [[Chronologie]]
-- [[Personnages]]
-- [[Nations]]
-- [[Langues]]
+# **Catégories**
+
+## Fondamentaux
 - [[Concepts]]
 - [[Espèces]]
-- [[Ères]]
-- [[Planètes]]
-- [[Évènements]]
 - [[Énergies]]
-- [[Statuts]]
+
+## Histoire
+- [[Ères]]
+- [[Chronologie]]
+- [[Évènements]]
+- [[Personnages]]
+
+## Lieux
+- [[Planètes]]
 - [[Villes]]
+- [[Continents et Zones géographiques]]
+
+## Politique et Culture
+- [[Nations]]
+- [[Éléments Politiques]]
 - [[Factions]]
+- [[Langues]]
+- [[Statuts]]

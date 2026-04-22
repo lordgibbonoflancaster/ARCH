@@ -3,7 +3,7 @@ liens:
   - "[[Archelans]]"
   - "[[Ère Archaïque]]"
   - "[[Guerre des poussières]]"
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
 aat-render-enabled: true
 timelines:
   - chronologie

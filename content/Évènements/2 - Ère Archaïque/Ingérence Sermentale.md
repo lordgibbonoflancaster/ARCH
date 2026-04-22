@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Le Serment]]"
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
   - "[[Elbasis]]"
   - "[[Guerre de secession d'Elbasis]]"
   - "[[Ère Archaïque]]"

@@ -9,7 +9,7 @@ liens:
   - "[[Archelans]]"
   - "[[Ère Archaïque]]"
   - "[[La Hiérarchie]]"
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
 tags:
   - Évènement
   - Guerres

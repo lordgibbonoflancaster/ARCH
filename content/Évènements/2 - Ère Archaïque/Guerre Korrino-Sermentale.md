@@ -4,7 +4,7 @@ liens:
   - "[[Vaals]]"
   - "[[Humains]]"
   - "[[Ère Archaïque]]"
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
 aat-render-enabled: true
 timelines:
   - chronologie

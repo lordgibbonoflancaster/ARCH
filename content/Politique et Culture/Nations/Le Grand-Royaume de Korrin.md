@@ -13,7 +13,7 @@ Glorieux, formidable, terrible, autant de qualificatifs utilisés pendant près 
 
 ## Débuts *(environ -800 à -324)*
 
-Malgré de nombreuses recherches, rares sont les informations sur les débuts du futur royaume de Korris, essentiellement regroupées grâce à l'archéologie moderne. Il est cependant probable que dès le début le royaume se soit basé sur [[D - Les Plans|les Plans]] pour conquérir l'ensemble de la planète mère de l'humanité, [[Garin]]. 
+Malgré de nombreuses recherches, rares sont les informations sur les débuts du futur royaume de Korris, essentiellement regroupées grâce à l'archéologie moderne. Il est cependant probable que dès le début le royaume se soit basé sur [[Plans|les Plans]] pour conquérir l'ensemble de la planète mère de l'humanité, [[Garin]]. 
 
 ## Ascension *(-324 à 0)*
 

@@ -3,7 +3,7 @@ liens:
   - "[[Ère Archaïque]]"
   - "[[La Hiérarchie]]"
   - "[[Guerre des poussières]]"
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
   - "[[Le Serment]]"
 aat-render-enabled: true
 timelines:

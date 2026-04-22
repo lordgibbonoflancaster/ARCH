@@ -1,7 +1,26 @@
----
-title: Welcome to Quartz 4
----
+Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire de l'univers pour empêcher mon oubli personnel, car tout garder dans la tête peut me peser. Notamment par peur d'oublier.
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+# **Catégories**
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+## Fondamentaux
+- [[Concepts]]
+- [[Espèces]]
+- [[Énergies]]
+
+## Histoire
+- [[Ères]]
+- [[Chronologie]]
+- [[Évènements]]
+- [[Personnages]]
+
+## Lieux
+- [[Planètes]]
+- [[Villes]]
+- [[Continents et Zones géographiques]]
+
+## Politique et Culture
+- [[Nations]]
+- [[Éléments Politiques]]
+- [[Factions]]
+- [[Langues]]
+- [[Statuts]]

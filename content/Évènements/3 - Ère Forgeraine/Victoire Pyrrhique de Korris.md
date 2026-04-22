@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
   - "[[Guerre des poussières]]"
   - "[[Humains]]"
   - "[[Ère Forgeraine]]"

@@ -3,7 +3,7 @@ liens:
   - "[[Ère Archaïque]]"
   - "[[Garin]]"
   - "[[Humains]]"
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
 aat-render-enabled: true
 timelines:
   - chronologie

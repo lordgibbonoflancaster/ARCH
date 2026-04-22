@@ -3,7 +3,7 @@ liens:
   - "[[Elbasis]]"
   - "[[Ère Archaïque]]"
   - "[[Humains]]"
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
 aat-render-enabled: true
 timelines:
   - chronologie

@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Le Grand-Royaume de Korrin]]"
+  - "[[Le Grand-Royaume de Korris]]"
   - "[[Humains]]"
   - "[[Elbasis]]"
   - "[[Ère Forgeraine]]"
