@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+---
+title: Bienvenue sur le Wiki !
+---
 Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire de l'univers pour empêcher mon oubli personnel, car tout garder dans la tête peut me peser. Notamment par peur d'oublier.
 
 # **Catégories**
@@ -24,3 +28,4 @@ Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire
 - [[Factions]]
 - [[Langues]]
 - [[Statuts]]
+>>>>>>> d8a9bd99b054d14036b53f9f32916ca9a11d322c
