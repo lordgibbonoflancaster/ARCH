@@ -3,7 +3,7 @@ liens:
   - "[[Archelans]]"
   - "[[Archelaus]]"
   - "[[Ère Forgeraine]]"
-  - "[[Phael]]"
+  - "[[Le Phael]]"
   - "[[Halekeis Tsy'kar|Alegeus]]"
   - "[[Arrivée d'Alegeus sur Archelaus]]"
 aat-render-enabled: true

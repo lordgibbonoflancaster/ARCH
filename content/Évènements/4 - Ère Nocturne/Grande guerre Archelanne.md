@@ -4,7 +4,7 @@ liens:
   - "[[Archelaus]]"
   - "[[Archelans]]"
   - "[[Beahe]]"
-  - "[[Phael]]"
+  - "[[Le Phael]]"
   - "[[Kai]]"
   - "[[La Forge]]"
   - "[[Ingérence Forgeraine chez Beahe]]"

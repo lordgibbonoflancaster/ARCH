@@ -5,7 +5,7 @@ liens:
   - "[[La Forge]]"
   - "[[Kai]]"
   - "[[Beahe]]"
-  - "[[Phael]]"
+  - "[[Le Phael]]"
   - "[[Ère Forgeraine]]"
 aat-render-enabled: true
 timelines:

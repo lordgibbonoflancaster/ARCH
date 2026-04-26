@@ -1,0 +1,13 @@
+*Journal d'Halekeis Tsy'kar.*
+
+**An 284.**
+
+Mes bottes en polycarbonate s’enfonçaient dans la cendre chaude. J’enjambai deux macchabées empilés, puis un troisième. Le regard vide, j’y arrachai deux de mes épées, jugeai des égratignures sur leur acier, puis passai aux cinq cadavres suivants.
+Je continuai cette procession avec un détachement relatif. En effet, une partie de moi me poussait à compter les douze corps humains. À estimer leur âge. À deviner leur origine. À imaginer leur vie avant qu’ils n’osent m’attaquer.
+Pour cette raison, je devais me détourner l’esprit. Mes habitudes néfastes prirent le pas, et je commençai à nettoyer compulsivement mes lames et mon armure dans un ruisseau non loin. Puis, après une dizaine de minutes, un petit rappel lumineux apparut dans ma visière transparente. Un message. Je posai sur une pierre humide Amertume, mon épée ancestrale au métal cramoisi, puis je m’assis, dos au massacre.
+Mon souffle ralentit, suivi du rythme de mon cœur. C’était Irilaek, mon arrière-arrière-petite-fille, qui m’avait envoyé le message. Depuis combien de temps ne l’avais-je pas vue ? Un siècle ? Après un rapide calcul mental, je tremblai en estimant son âge. Elle-même devait avoir des arrière-arrière-petits-enfants à présent.
+L’image qu’elle m’avait transmise représentait une peinture. Irilaek avait, comme moi à mon époque, entrepris des études d’art. Je souris d’abord, mais les muscles trop durs de mes joues m’endolorirent. Je dus me reprendre, à contrecœur.
+Sa dernière œuvre dépeignait la cascade à quelques kilomètres de la maison familiale, dans la région montagneuse d’Aal, sur Lorus. La nostalgie me serra le cœur, et pendant un instant, un afflux de souvenirs de cette époque m’envahit. Je n’étais plus sur cette maudite planète humaine, non. J’étais de retour sur la petite lune froide qui m’avait accueilli, près du cours d’eau où j’avais appris à nager à nombre de mes descendants. La bruine vivifiante parcourait ma peau. Le parfum des sapins me berçait. Non loin, des enfants pataugeaient, m’appelant avec des rires fiers. Je marchais pieds nus sur la pierre trempée, puis dans l’eau elle-même. Mon épouse, non loin, poussait un cri de triomphe tandis que le petit-fils d’un petit-fils réussissait à plonger.
+Puis l’odeur de chair brûlée me parvint, brisant mon rêve éveillé. Je fermai le message avec douleur.
+Je ne pouvais plus revenir sur Lorus. Un monstre glacé m’avait saisi les entrailles, et mon visage reprenait sa fermeté habituelle. J’attrapai Amertume, la rangeai dans son fourreau, puis me dirigeai vers mon aéromoto.
+Sans un regard vers les corps et le cours d’eau, j’enfourchai la selle argentée et me lançai à deux cent cinquante kilomètres-heure.

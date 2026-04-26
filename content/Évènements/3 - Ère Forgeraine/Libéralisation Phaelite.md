@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Phael]]"
+  - "[[Le Phael]]"
   - "[[Influence d'Alegeus sur la culture Phaelite]]"
   - "[[Ère Forgeraine]]"
   - "[[Archelaus]]"

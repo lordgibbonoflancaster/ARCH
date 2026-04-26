@@ -5,7 +5,7 @@ liens:
   - "[[Ère Forgeraine]]"
   - "[[Kai]]"
   - "[[Beahe]]"
-  - "[[Phael]]"
+  - "[[Le Phael]]"
 aat-render-enabled: true
 timelines:
   - chronologie

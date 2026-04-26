@@ -6,7 +6,7 @@ liens:
   - "[[L'Aube]]"
   - "[[Beahe]]"
   - "[[Kai]]"
-  - "[[Phael]]"
+  - "[[Le Phael]]"
 aat-render-enabled: true
 timelines:
   - chronologie

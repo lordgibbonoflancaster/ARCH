@@ -3,7 +3,7 @@ liens:
   - "[[Kai]]"
   - "[[Archelaus]]"
   - "[[Beahe]]"
-  - "[[Phael]]"
+  - "[[Le Phael]]"
   - "[[Archelans]]"
   - "[[Relieurs]]"
   - "[[Guerre Civile Kai]]"

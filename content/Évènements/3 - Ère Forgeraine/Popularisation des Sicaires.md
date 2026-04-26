@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Archelaus]]"
-  - "[[Phael]]"
+  - "[[Le Phael]]"
   - "[[Beahe]]"
   - "[[Kai]]"
   - "[[Archelans]]"

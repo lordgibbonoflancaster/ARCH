@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Phael]]"
+  - "[[Le Phael]]"
   - "[[Archelaus]]"
   - "[[Ère Forgeraine]]"
 aat-render-enabled: true
