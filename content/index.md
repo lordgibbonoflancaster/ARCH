@@ -1,3 +1,8 @@
+---
+title: Accueil
+socialImage: "/Accueil/ARCH.png"
+---
+
 # Bienvenue sur le Wiki !
 
 Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire de l'univers pour empêcher mon oubli personnel, car tout garder dans la tête peut me peser. Notamment par peur d'oublier.
