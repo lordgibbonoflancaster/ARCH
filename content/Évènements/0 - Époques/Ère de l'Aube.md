@@ -2,3 +2,49 @@
 liens:
   - "[[Ères]]"
 ---
+## [[Ère de l'Aube]]
+- [[Amélioration des Conditions de vies Humaines]]: 1324 à 1358
+- [[Dégradation des conditions de vies Humaines]]: 1358 à 1376
+- [[Attentat humain]]: 1365
+- [[Élection du futur 4e Angon comme Premier Archelan]]: 1370
+- [[Sécession du Fer et Création de l'Acier]]: 1370
+- [[Persécutions des Humains]]: 1370 à 1375
+- [[Fondation de l’Empire de l’Aube]]: 1370
+- [[Corruption du Fer]]: 1370 à 1377
+- [[Découverte de l'Abysse par Racine]]: 1372
+- [[Nuit vermeille]]: 1374
+- [[Nomination du 4e Angon]]: 1375
+- [[Le 4e Angon rejoint l'Acier]]: 1375
+- [[Coup d’État et Exil du 4e Angon]]: 1375
+- [[Seconde Guerre Archelanne]]: 1376 à 1377
+- [[Reconquête de l’Empire]]: 1376
+- [[Mort du 4e Angon]]: 1376
+- [[Bataille d’Arunai]]: 1376
+- [[Traité de l'Azur]]: 1377
+- [[Refondation de l'Aube]]: 1377
+- [[Naissance de la future 5e Angonne]]: 1377
+- [[Fraction d'entre Racine et l'Orfèvrerie]]: 1396
+- [[Guerre Racino-Forge sur Erish]]: 1397
+- [[Fuite de Racine dans L’Abysse]]: 1397
+- [[Nomination de la 5e Angonne]]: 1400
+- [[Création de Synthèse]]: 1400
+- [[Tremblements de terre massifs]]: 1401
+- [[Mort de Sythèse]]: 1401
+- [[Mort de la 5e Angonne]]: 1401
+- [[Création de l’Orfèvre]]: 1410
+- [[La future 6e Angonne élabore Le Pourfendeur]]: 1423
+- [[L'Orfèvre crée sa première forme physique]]: 1423
+- [[Nomination de la 6e Angonne]]: 1424
+- [[Mort de la 6e Angonne]]: 1424
+- [[Destruction d’un Pourfendeur]]: 1424
+- [[Nomination du 7e Angon]]: 1443
+- [[Montée au pouvoir du 7e Angon sur L’Aube]]: 1447
+- [[Révolte des Forges]]: 1466 à 1470
+- [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
+- [[2e Réapparition du Crépuscule]]: 1467
+- [[Le 7e Angon devient esclave de L’Enclume]]: 1467
+- [[Aube éclipsée]]: 1467
+- [[Fuite du Marteau vers Archelaus]]: 1469
+- [[Destruction d’Erish]]: 1469
+- [[Vitrification du continent d’Ehran]]: 1470
+- [[Bataille des Pétales ébènes]]: 1470

@@ -2,3 +2,62 @@
 liens:
   - "[[Ères]]"
 ---
+## [[Ère Forgeraine]]
+- [[Fondation de la Forge]]: 0
+- [[Fondation des trois États Archelans]]: 0 à 5
+- [[Abandon des possessions Humaines sur Lorus]]: 6
+- [[Stérilisation des colonies Korrisiennes et Génocides]]: 7 à 12
+- [[Lois Forgeraines sur la repopulation]]: 7 à 10
+- [[Découverte affiliation Humanoïdes]]: 7
+- [[Popularisation des Relieurs]]: 31
+- [[Découverte Forgeraine des États Archelans]]: 77
+- [[Attaques druidiques]]: 208 à 213
+- [[Matage de la rébellion Druidique]]: 213
+- [[Auto-Exil de Halekeis sur Korrin]]: 213
+- [[Première colonie marchande Béaheènne]]: 281
+- [[Grande Rupture]]: 300
+- [[Bataille des Silences]]: 300
+- [[Patriarcalisation de Kai]]: 318 à 786
+- [[Grande Chasse]]: 318
+- [[Fondations des cités Kai]]: 318 à 450
+- [[Chute Démographique Kai]]: 318
+- [[Apogée Béaheènne]]: 335 à 342
+- [[Recul de la culture Béaheènne]]: 342 à 448
+- [[La Frénésie]]: 342
+- [[Retour d'Alegeus sur Lorus]]: 785
+- [[Rafle d'argent]]: 785 à 796
+- [[Tentacularisation du parti Gynarchique]]: 786 à 788
+- [[Instauration de la Patriarchie Kai]]: 786
+- [[Gynarchisation des Relieurs Internes]]: 786 à 788
+- [[Gynarchisation des cités Kai]]: 786 à 788
+- [[Guerre Civile Kai]]: 786 à 808
+- [[Coup d'État militaire Kai]]: 786
+- [[Baisse du pouvoir des Relieurs]]: 786 à 790
+- [[Égalitarisation]]: 788 à 790
+- [[Coup d'État Gynarchique]]: 788
+- [[Séparatisme des Cités Kai]]: 790 à 792
+- [[Nouvelle chute démographique Kai]]: 790 à 792
+- [[Gynarchisation des Guildes]]: 791
+- [[Traité de Chair]]: 792
+- [[Tentative de Coup d'État par l'Église de la Paix]]: 793
+- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
+- [[Début de l'oppression des minorités Kai]]: 793 à 806
+- [[Centralisation du pouvoir Kai]]: 793 à 806
+- [[Tentative d'assassinat de la Gynarque]]: 806
+- [[Rébellion Finale]]: 806 à 808
+- [[Gynarchisation des Cités Béaheènnes Nordistes]]: 810 à 1184
+- [[Grandes Pénuries]]: 825 à 827
+- [[Grande Expansion]]: 825 à 828
+- [[Pogroms Archelans dans La Forge]]: 826 à 827
+- [[Second Génocide Archelan]]: 827
+- [[Arrivée d'Alegeus sur Archelaus]]: 827
+- [[Influence d'Alegeus sur la culture Phaelite]]: 828 à 835
+- [[Popularisation des Sicaires]]: 833
+- [[Révolution Phaelite]]: 835
+- [[Libéralisation Phaelite]]: 835
+- [[Industrialisation du Phael]]: 835 à 950
+- [[Boom Scientifique Phaelite]]: 835 à 870
+- [[Industrialisation Béaheènne]]: 841 à 1321
+- [[Industrialisation Kai]]: 872 à 930
+- [[Purge des Sicaires]]: 1181 à 1183
+- [[Massacre des chefs Forgerains]]: 1181

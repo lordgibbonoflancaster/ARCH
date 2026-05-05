@@ -2,3 +2,22 @@
 liens:
   - "[[Ères]]"
 ---
+## [[Ère Archaïque]]
+- [[Naissance des premiers États Archelans, Humains et Vaals]]: -1044 à -1019
+- [[Petit Conditionnement]]: -1030 à 450
+- [[Ère Œcuménique]]: -535 à -368
+- [[Rejet de son adoration par le petit-Être]]: -373
+- [[Ascension de l'Aristocratie des perles]]: -368 à -104
+- [[Conquête planétaire Korrisienne par Arcturien]]: -324 à -321
+- [[Guerre civile aristocratique Archelanne]]: -113 à -104
+- [[Instauration de la Hiérarchie]]: -104
+- [[Guerre de secession d'Elbasis]]: -24 à -19
+- [[Ingérence Sermentale]]: -22 à -19
+- [[Guerre Korrino-Sermentale]]: -20 à -14
+- [[Génocide Vaal]]: -17
+- [[Incident de Kul'madân]]: -14
+- [[Guerre des poussières]]: -14 à 0
+- [[Premier Génocide Archelan]]: 0
+- [[Libération des Méchanides sur Archelaus]]: 0
+- [[L'Éclat]]: 0
+- [[Victoire Pyrrhique de Korris]]: 0

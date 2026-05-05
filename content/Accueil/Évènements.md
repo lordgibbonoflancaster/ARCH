@@ -1,13 +1,16 @@
-Voici les classifications d'événements :
 
-- #Évènement 
-- #Changement-politique-ou-culturel 
-- #Destructions 
-- #Diplomatie 
-- #Fondation 
-- #Génocides 
-- #Guerres 
-- #Intervention-petit-Être 
-- #Invention-Découverte 
-- #Révolution-ou-Guerre-Civile 
-- #Tensions-Escarmouches 
+
+## Voici les classifications d'événements :
+
+- ## [[Bataille]]
+- ## [[Changement Politique ou Culturel]]
+- ## [[Destruction]]
+- ## [[Diplomatie]] 
+- ## [[Fondation]]
+- ## [[Génocide]]
+- ## [[Guerre]] 
+- ## [[Intervention du Petit Être]]
+- ## [[Invention, Découverte ou Exploration]]
+- ## [[Révolution, Sécession ou Guerre Civile]]
+- ## [[Tensions et Escarmouches]]
+

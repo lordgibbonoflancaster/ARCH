@@ -1,5 +1,5 @@
 ---
 liens:
-  - "[[Villes]]"
+  - "[[Villes et Stations]]"
   - "[[Laurel]]"
 ---

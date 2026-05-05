@@ -10,5 +10,4 @@ timelines:
   - chronologie
 tags:
   - Évènement
-  - Destructions
 ---

@@ -15,7 +15,7 @@ Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire
 
 ## Lieux
 - [[Planètes]]
-- [[Villes]]
+- [[Villes et Stations]]
 - [[Continents et Zones géographiques]]
 
 ## Politique et Culture

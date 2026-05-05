@@ -1,0 +1,11 @@
+---
+liens:
+  - "[[Continents et Zones géographiques]]"
+  - "[[Garin|Korris]]"
+  - "[[Le Grand-Royaume de Korris]]"
+---
+---
+- *Classification* : [[Continents et Zones géographiques]] #Continents_et_Zones_géographiques
+- *Liens* : [[Le Grand-Royaume de Korris]]
+- *Localisation* : [[Garin|Korris]]
+---
