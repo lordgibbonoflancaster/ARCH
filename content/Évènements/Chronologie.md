@@ -31,6 +31,7 @@
 ## [[Ère Forgeraine]]
 - [[Fondation de la Forge]]: 0
 - [[Fondation des trois États Archelans]]: 0 à 5
+- [[Premières Guerres Civiles Humaines]]: 0 à 150
 - [[Abandon des possessions Humaines sur Lorus]]: 6
 - [[Stérilisation des colonies Korrisiennes et Génocides]]: 7 à 12
 - [[Lois Forgeraines sur la repopulation]]: 7 à 10

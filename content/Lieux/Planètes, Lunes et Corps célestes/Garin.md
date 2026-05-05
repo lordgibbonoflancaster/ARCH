@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Planètes]]"
+  - "[[Planètes, Lunes et Corps célestes]]"
 aliases:
   - Korris
   - Korrin

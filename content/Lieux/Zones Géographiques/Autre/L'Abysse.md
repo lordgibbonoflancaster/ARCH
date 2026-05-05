@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Continents et Zones géographiques]]"
+  - "[[Continents, Régions et Zones géographiques]]"
   - "[[Archelaus]]"
   - "[[Synthèse]]"
 ---

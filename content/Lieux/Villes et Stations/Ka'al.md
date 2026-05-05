@@ -5,6 +5,7 @@ liens:
   - "[[La Forge]]"
 ---
 ---
+- *Classification* : [[Villes et Stations]]
 - *Liens* : [[Villes et Stations]]
 - *Localisation* : [[Erish]]
 - *Date de début* : -200?

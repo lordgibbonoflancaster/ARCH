@@ -6,6 +6,18 @@ aliases:
   - Alegeus
   - Halekeis
 ---
+---
+- *Classification* : [[Personnages]]
+- *Liens* : [[Santhe]], [[Guerre des poussières]], [[La Forge]], [[Mission de Sécurité Planétaire]]
+- *Période(s)* : [[Ère Archaïque]], [[Ère Forgeraine]], [[Ère Nocturne]] (très peu)
+- *Affiliation (optionel)* :
+- *Espèce ou origine* : [[Archelans|Archelan]]
+- *Date de naissance* : -18
+- *Date de décès :* 1184 (1202 ans)
+---
+
+
+
 Halekeis Tsy'kar est un [[Archelans|Archelan]], et ainsi possède une peau d'ébène, des cheveux blancs et crépus, des yeux clairs. Sa régénération biologique exceptionnelle, propre à son espèce, lui permet de survivre à des blessures qui tueraient n'importe quel humain ou [[Vaals|Vaal]]. Au moment où se déroulent les récits, il accuse deux cent quatre-vingts ans d'existence — une longévité qui le place dans une position particulière d'observateur de l'Histoire, témoin de civilisations entières dans leur ascension comme dans leur chute.
 
 Il opère sur [[Garin|Korris]] en tant qu'agent du Comité de sécurité planétaire de [[La Forge]], une nation secrète d'Archelans et de Vaals dont l'existence doit demeurer une rumeur pour l'Humanité. Ses missions sont diverses — reconnaissance, sécurisation de zones d'opération, collecte de renseignements — mais toutes convergent vers un même objectif stratégique : maintenir les sociétés humaines de Korris dans un état de relative primitvité technologique et intellectuelle, afin de prévenir toute résurgence de leur puissance belliqueuse.
