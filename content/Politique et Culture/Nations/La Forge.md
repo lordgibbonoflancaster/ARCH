@@ -5,7 +5,7 @@ liens:
   - "[[Nations]]"
 ---
 ___
-- *Classification* : [[Nations]]
+- *Classification* : #Nations, [[Nations]]
 - *Période(s)* : [[Ère Forgeraine]], [[Ère Nocturne]], [[Ère de l'Aube]]
 - *Localisation* : [[Erish]] (Monde capital de 0 à 1469)
 - *Territoires un jour conquis, contrôlés ou annexés* : [[Archelaus]] (moins de 1 an chaque fois), [[Garin]], [[Jirialis|Jirial]], [[Elbasis]]
@@ -16,7 +16,7 @@ ___
 
 La Forge est née dès la fin de la [[Guerre des poussières]], en l'an 0. Lorsque [[L'Éclat]] secoua [[Erish|Lorus]], la plupart des seigneurs du [[Le Grand-Royaume de Korris|Royaume de Korris]] quittèrent la lune en abandonnant les villes. Dans leur fuite, ils oublièrent derrière eux une petite ville, [[Ka'al]]. Là, le seigneur [[Humains|Humain]] *nom à trouver* n'avait pas exterminé ses prisonniers [[Vaals]] et [[Archelans]], préférant les exploiter au maximum. Ces prisonniers, d'anciens penseurs et philosophes rejetés par leurs peuples respectifs, sortirent un matin de leurs cellules, leurs geôliers disparus et leur liberté retrouvée. Ils venaient, par hasard, de survivre à un génocide.
 
-## Fondation *(an 0)*
+## Fondation *(an 0 à 6)*
 
 Dans le plus grand secret, terrifiés à l'idée que les [[Humains]] ne les découvrent, les survivants fondèrent leur société précaire sur les idées pour lesquelles ils avaient été exclus de leurs nations respectives *(voir [[La Hiérarchie]] et [[Le Serment]])*. Parmi ces idées, deux ressortent principalement :
 
@@ -37,4 +37,21 @@ Les forgerains décidèrent de jouer au propre jeu de Clément, sachant qu'il pr
 Halekeis, loin d'avoir acquis l'excellence à l'épée qui fera sa renommée dans les siècles à venir, parvint in extremis à vaincre le champion du duc. Clément de Tsy'arat [[Abandon des possessions Humaines sur Lorus|abandonna alors Lorus]] avec toute sa cour, ses troupes et ses sujets, partant ainsi vers d'autres mondes et [[Stérilisation des colonies Korrisiennes et Génocides|tentant par la force et le ravage de les acquérir en entier]].
 Ainsi la Forge sécurisa pour de bon son contrôle sur Lorus, devenue seule maîtresse de la lune.
 
-## 
+## L'âge d'or *(an 6 à 211)*
+
+Pendant près de deux siècles, la Forge tente de nombreuses formes de gouvernements, en passant d'abord par l'anarchisme, par des régimes plus ou moins centralisés, puis en s'arrêtant aux alentours de l'an 100 vers une forme de démocratie directe. Le tout se fait dans un grand enthousiasme général, bien que de nombreuses difficultés administratives et logistiques sont rencontrées. La grande quantité d'intellectuels par rapport à des profils plus fondamentaux empêche la jeune nation de régler tout de suite ses problèmes, notamment démographiques, alimentaires et matériels. Cependant, telle un double tranchant, cela permet de grandes découvertes scientifiques qui permettront de compenser la plupart des problèmes. Dès l'an 7, jusqu'à l'an 10, des lois sont promulguées concernant la [[Lois Forgeraines sur la repopulation|repopulation]], ce qui poussera le nombre de forgerains à près de 1200 en l'an 100, et à 4500 en l'an 200.
+
+Le régime se dote de nombreux appareils d'État complexes, mais l'un d'eux ressort : [[Ordre des Chevaliers d'argent|l'ordre des chevaliers d'argent]], fondé par [[Halekeis Tsy'kar]] dès les premières années. Les Chevaliers d'argent sont classés entre des gardes du corps d'élite et des agents gouvernementaux capables d'être envoyés en mission extrêmes. De par l'adresse grandissante de leur fondateur, qui sera directeur de leur école jusqu'en 213 et y formera en continu les membres, les chevaliers d'argent seront réputés pour leur incroyable compétence au combat, rarement utilisée jusqu'en 211.
+
+Vers les années 150, la Forge aura acquis un niveau scientifique et technologique significatif : Médecine avancée, technologie spatiale poussée, sciences sociales développée, etc. 
+
+L'[[Humains|Humanité]] s'étant entredéchirée jusqu'à retourner à la barbarie féodale sur un seul et dernier monde, [[Garin|Korris]], leur berceau, la Forge lancera en 149 la [[Mission de Sécurité Planétaire]], dans le but d'empêcher l'Humanité d'un jour se relever et de poser de nouveau risque à la galaxie. La méthode utilisée sera un strict contrôle des connaissances humaines. En 151, la station [[Interstice]] sera construite autour de [[Garin|Korris]] afin de grandement aider la Mission de Sécurité Planétaire.
+
+## [[Attaques druidiques|Les attaques druidiques]] *(an 211 à 213)*
+*(à compléter)*
+
+Depuis les années 160, certaines religions inspirées des anciens cultes [[Vaals|vaals]] et [[Archelans|archelans]] émergent, encouragées par certains traditionnalistes prônant un retour à des cultures fantasmées. L'une de ses religions, le [[Néo-Druidisme Vaal]], acquiert une surprenante popularité, et se radicalisera vers les année 205.
+
+Tout empirera en 211 quand des fanatiques néo-druidiques commenceront à former des milices pour combattre les « hérétiques » et les « technocrates impies ». Le conflit s'embrasera avec plusieurs attentats organisés, souvent perpétrés par des enfants-soldats, les « anges », kidnappés, fanatisés et envoyés se battre sous drogue, nommée « miel des esprits ».
+
+Le gouvernement forgerain, d'abord paralysé par la surprise et son manque d'expérience en conflits internes, acquerra lentement l'avantage, jusqu'en 213, lorsque le dernier bastion néo-druidique à [[Kaarat|Ka'arat]], dirigé par *nom à trouver*, sera nettoyé par [[Halekeis Tsy'kar]]. [[Soulèvement de Ka'arat|L'évènement]] brisera ce dernier, qui, malgré une victoire totale sur le papier, la considérera comme un massacre de sa part et se retirera de la vie publique avant de s'engager dans la [[Mission de Sécurité Planétaire]], dans ce qu'il nommera plus tard un « auto-exil ».

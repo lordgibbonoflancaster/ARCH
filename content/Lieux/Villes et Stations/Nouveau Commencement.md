@@ -3,3 +3,10 @@ liens:
   - "[[Villes et Stations]]"
   - "[[Laurel]]"
 ---
+---
+- *Classification* :  #Villes-et-Stations, [[Villes et Stations]]
+- *Liens* : [[Villes et Stations]]
+- *Localisation* : [[Garin]]
+- *Date de début* : 1184
+- *Date de fin (optionnel)* : 1191
+---

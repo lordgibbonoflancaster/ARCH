@@ -38,8 +38,8 @@
 - [[Découverte affiliation Humanoïdes]]: 7
 - [[Popularisation des Relieurs]]: 31
 - [[Découverte Forgeraine des États Archelans]]: 77
-- [[Attaques druidiques]]: 208 à 213
-- [[Matage de la rébellion Druidique]]: 213
+- [[Attaques druidiques]]: 211 à 213
+- [[Soulèvement de Ka'arat]]: 213
 - [[Auto-Exil de Halekeis sur Korrin]]: 213
 - [[Première colonie marchande Béaheènne]]: 281
 - [[Grande Rupture]]: 300

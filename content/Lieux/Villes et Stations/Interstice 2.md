@@ -8,7 +8,7 @@ aliases:
   - Interstice II
 ---
 ---
-- *Classification* : [[Villes et Stations]]
+- *Classification* :  #Villes-et-Stations, [[Villes et Stations]]
 - *Liens* : [[Mission de Sécurité Planétaire]], [[La Forge]]
 - *Localisation* : [[Garin|Korris]]
 - *Date de début* : 304

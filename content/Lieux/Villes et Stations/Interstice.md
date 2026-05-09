@@ -9,7 +9,7 @@ aliases:
   - Interstice 1
 ---
 ---
-- *Classification* : [[Villes et Stations]]
+- *Classification* :  #Villes-et-Stations, [[Villes et Stations]]
 - *Liens* : [[Mission de Sécurité Planétaire]], [[La Forge]]
 - *Localisation* : [[Garin|Korris]]
 - *Date de début* : 151
