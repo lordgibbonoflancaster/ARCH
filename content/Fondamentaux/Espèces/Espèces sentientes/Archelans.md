@@ -3,6 +3,14 @@ liens:
   - "[[Espèces]]"
   - "[[Archelaus]]"
 ---
+---
+- *Classification* : #Espèces, [[Espèces]]
+- *Planète d'origine (si connue)* : [[Archelaus]]
+- *Espèce d'origine (si connue)* : [[Humains]]
+- *Date d'apparition (si connue)* : -2 220
+- *Date de disparition (si connue)* : 1637
+---
+
 ## Résumé
 
 Reconnaissables à leur peau, yeux et cheveux aux couleurs impossibles, les Archelans peuplent la planète [[Archelaus]]. Ils ont la particularité de pouvoir vivre indéfiniment. Chose rare, néanmoins, car la vieillesse n'est pas la seule faucheuse. Les Archelans possèdent aussi la capacité de régénérer leurs blessures de façon fulgurante, contre un coût métabolique élevé. De plus, les Archelans ont une fertilité très basse, ce qui leur causera bien des problèmes au fil des siècles et des évènements.

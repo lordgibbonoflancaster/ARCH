@@ -5,7 +5,7 @@ liens:
   - "[[Erish]]"
   - "[[Grande Expansion]]"
   - "[[Pogroms Archelans dans La Forge]]"
-  - "[[Forgerains]]"
+  - "[[Erijis]]"
 aat-render-enabled: true
 timelines:
   - chronologie

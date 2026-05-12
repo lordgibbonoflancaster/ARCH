@@ -2,6 +2,14 @@
 liens:
   - "[[Espèces]]"
 ---
+---
+- *Classification* : #Espèces, [[Espèces]]
+- *Planète d'origine (si connue)* : Inconnue
+- *Espèce d'origine (si connue)* : Inconnue
+- *Date d'apparition (si connue)* : ~ -15 000?
+- *Date de disparition (si connue)* : -1 045
+---
+
 ## Résumé
 
 Espèce ancienne et disparue, qui a pendant près de cent siècles dominé, écrasé, corrompu et déchaîné toutes les infamies et abominations possibles sur l'univers. Personne ne se souvient de leur apparence exacte, sinon leur monstruosité physique et insectoïde. Ce sont les Profanateurs qui ont modifié les humains, tels des outils imparfaits, en des centaines d'espèces différentes. Rares sont celles qui ont survécu depuis leur chute.

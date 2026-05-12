@@ -4,9 +4,8 @@ liens:
 aliases:
   - Oram'Kul
 ---
-
 ---
-- *Classification* : [[Personnages]]
+- *Classification* : #Personnages, [[Personnages]]
 - *Liens* : [[Le Grand-Royaume de Korris]], [[Erish]], [[Abandon des possessions Humaines sur Lorus]], [[Stérilisation des colonies Korrisiennes et Génocides]]
 - *Période(s)* : [[Ère Archaïque]], [[Ère Forgeraine]]
 - *Affiliation (optionel)* :

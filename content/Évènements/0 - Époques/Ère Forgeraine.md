@@ -3,62 +3,63 @@ liens:
   - "[[Ères]]"
 ---
 ## [[Ère Forgeraine]]
+<!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Forgeraine]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
+<!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Forgeraine]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Fondation de la Forge]]: 0
 - [[Fondation des trois États Archelans]]: 0 à 5
-- [[Premières Guerres Civiles Humaines]]: 0 à 150
+- [[Premières Guerres Civiles Humaines]]: 0 à 150
+- [[Victoire Pyrrhique de Korris]]: 0
 - [[Abandon des possessions Humaines sur Lorus]]: 6
-- [[Stérilisation des colonies Korrisiennes et Génocides]]: 7 à 12
-- [[Lois Forgeraines sur la repopulation]]: 7 à 10
 - [[Découverte affiliation Humanoïdes]]: 7
+- [[Lois Forgeraines sur la repopulation]]: 7 à 10
+- [[Stérilisation des colonies Korrisiennes et Génocides]]: 7 à 12
 - [[Popularisation des Relieurs]]: 31
 - [[Découverte Forgeraine des États Archelans]]: 77
-- [[Attaques druidiques]]: 208 à 213
-- [[Soulèvement de Ka'arat]]: 213
+- [[Attaques druidiques]]: 211 à 213
 - [[Auto-Exil de Halekeis sur Korrin]]: 213
+- [[Soulèvement de Ka'arat]]: 213
 - [[Première colonie marchande Béaheènne]]: 281
-- [[Grande Rupture]]: 300
 - [[Bataille des Silences]]: 300
-- [[Patriarcalisation de Kai]]: 318 à 786
-- [[Grande Chasse]]: 318
-- [[Fondations des cités Kai]]: 318 à 450
+- [[Grande Rupture]]: 300
+- [[Comission d'enquête et refonte d'Interstice]]: 301
 - [[Chute Démographique Kai]]: 318
+- [[Fondations des cités Kai]]: 318 à 450
+- [[Grande Chasse]]: 318
+- [[Patriarcalisation de Kai]]: 318 à 786
 - [[Apogée Béaheènne]]: 335 à 342
-- [[Recul de la culture Béaheènne]]: 342 à 448
 - [[La Frénésie]]: 342
-- [[Retour d'Alegeus sur Lorus]]: 785
 - [[Rafle d'argent]]: 785 à 796
-- [[Tentacularisation du parti Gynarchique]]: 786 à 788
-- [[Instauration de la Patriarchie Kai]]: 786
+- [[Retour d'Alegeus sur Lorus]]: 785
+- [[Coup d'État militaire Kai]]: 786
+- [[Guerre Civile Kai]]: 786 à 808
 - [[Gynarchisation des Relieurs Internes]]: 786 à 788
 - [[Gynarchisation des cités Kai]]: 786 à 788
-- [[Guerre Civile Kai]]: 786 à 808
-- [[Coup d'État militaire Kai]]: 786
-- [[Baisse du pouvoir des Relieurs]]: 786 à 790
-- [[Égalitarisation]]: 788 à 790
+- [[Instauration de la Patriarchie Kai]]: 786
+- [[Tentacularisation du parti Gynarchique]]: 786 à 788
 - [[Coup d'État Gynarchique]]: 788
-- [[Séparatisme des Cités Kai]]: 790 à 792
+- [[Égalitarisation]]: 788 à 790
 - [[Nouvelle chute démographique Kai]]: 790 à 792
+- [[Séparatisme des Cités Kai]]: 790 à 792
 - [[Gynarchisation des Guildes]]: 791
 - [[Traité de Chair]]: 792
-- [[Tentative de Coup d'État par l'Église de la Paix]]: 793
-- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
-- [[Début de l'oppression des minorités Kai]]: 793 à 806
 - [[Centralisation du pouvoir Kai]]: 793 à 806
-- [[Tentative d'assassinat de la Gynarque]]: 806
+- [[Début de l'oppression des minorités Kai]]: 793 à 806
+- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
+- [[Tentative de Coup d'État par l'Église de la Paix]]: 793
 - [[Rébellion Finale]]: 806 à 808
+- [[Tentative d'assassinat de la Gynarque]]: 806
 - [[Gynarchisation des Cités Béaheènnes Nordistes]]: 810 à 1184
-- [[Grandes Pénuries]]: 825 à 827
 - [[Grande Expansion]]: 825 à 828
-- [[Pogroms Archelans dans La Forge]]: 826 à 827
-- [[Second Génocide Archelan]]: 827
+- [[Grandes Pénuries]]: 825 à 827
 - [[Arrivée d'Alegeus sur Archelaus]]: 827
 - [[Influence d'Alegeus sur la culture Phaelite]]: 828 à 835
-- [[Popularisation des Sicaires]]: 833
-- [[Révolution Phaelite]]: 835
-- [[Libéralisation Phaelite]]: 835
-- [[Industrialisation du Phael]]: 835 à 950
 - [[Boom Scientifique Phaelite]]: 835 à 870
+- [[Industrialisation du Phael]]: 835 à 950
+- [[Libéralisation Phaelite]]: 835
+- [[Révolution Phaelite]]: 835
 - [[Industrialisation Béaheènne]]: 841 à 1321
 - [[Industrialisation Kai]]: 872 à 930
-- [[Purge des Sicaires]]: 1181 à 1183
 - [[Massacre des chefs Forgerains]]: 1181
+- [[Purge des Sicaires]]: 1181 à 1183
+
+<!-- SerializedQuery END -->

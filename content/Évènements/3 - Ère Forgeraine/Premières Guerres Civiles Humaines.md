@@ -1,5 +1,4 @@
 ---
-liens: []
 aat-render-enabled: true
 timelines:
   - chronologie

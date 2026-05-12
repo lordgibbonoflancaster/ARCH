@@ -6,7 +6,14 @@ liens:
   - "[[Archelaus]]"
   - "[[Nations]]"
 ---
-
+___
+- *Classification* : #Nations, [[Nations]]
+- *Période(s)* : [[Ère Forgeraine]], [[Ère Nocturne]]
+- *Localisation* : [[Archelaus]]
+- *Territoires un jour conquis, contrôlés ou annexés* : 
+- *Date de début* : 0
+- *Date de fin (optionnel)* : 1324
+---
 
 Kai est un État [[Archelaus|Archélaüsien]] ayant existé de l'année **0** à **1347**, soit pendant toute l'[[Ère Forgeraine]] et l'[[Ère Nocturne]]
 

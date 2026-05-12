@@ -3,7 +3,7 @@ liens:
   - "[[Le Grand-Royaume de Korris]]"
   - "[[Guerre des poussières]]"
   - "[[Humains]]"
-  - "[[Ère Forgeraine]]"
+  - "[[Ère Archaïque]]"
 aat-render-enabled: true
 timelines:
   - chronologie

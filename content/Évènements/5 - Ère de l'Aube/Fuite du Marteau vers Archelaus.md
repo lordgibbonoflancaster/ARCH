@@ -3,7 +3,7 @@ liens:
   - "[[Ère de l'Aube]]"
   - "[[Le Marteau]]"
   - "[[Archelaus]]"
-  - "[[Révolte des Forges]]"
+  - "[[Guerre Civile Forgeraine]]"
 aat-render-enabled: true
 timelines:
   - chronologie

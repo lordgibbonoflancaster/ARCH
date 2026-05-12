@@ -4,7 +4,7 @@ liens:
   - "[[La Forge]]"
   - "[[Erish]]"
   - "[[Grande Expansion]]"
-  - "[[Forgerains]]"
+  - "[[Erijis]]"
   - "[[Grandes Pénuries]]"
 aat-render-enabled: true
 timelines:

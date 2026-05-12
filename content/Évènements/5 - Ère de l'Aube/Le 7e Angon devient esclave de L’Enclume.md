@@ -4,7 +4,7 @@ liens:
   - "[[7e Angon]]"
   - "[[L'Enclume]]"
   - "[[Aube éclipsée]]"
-  - "[[Révolte des Forges]]"
+  - "[[Guerre Civile Forgeraine]]"
 aat-render-enabled: true
 timelines:
   - chronologie

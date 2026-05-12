@@ -1,7 +1,7 @@
 ---
 liens:
-  - "[[Ère Lâche]]"
   - "[[7e Angon]]"
+  - "[[Ère de l'Aube]]"
 aat-render-enabled: true
 timelines:
   - chronologie

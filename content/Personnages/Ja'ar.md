@@ -3,7 +3,7 @@ liens:
   - "[[Personnages]]"
 ---
 ---
-- *Classification* : [[Personnages]]
+- *Classification* : #Personnages, [[Personnages]]
 - *Liens* : [[La Forge]]
 - *Période(s)* : [[Ère Archaïque]], [[Ère Forgeraine]]
 - *Affiliation (optionel)* :

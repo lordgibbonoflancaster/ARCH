@@ -5,7 +5,7 @@ Dans cet univers, plusieurs espèces vivent, s'hybrident, apparaissent et dispar
 - [[Humains]]
 - [[Archelans]]
 - [[Vaals]]
-- [[Forgerains]]
+- [[Erijis]]
 - [[Profanateurs]]
 - [[Pourfendeurs]]
 

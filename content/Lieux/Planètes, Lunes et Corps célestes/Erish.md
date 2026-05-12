@@ -3,6 +3,7 @@ liens:
   - "[[Planètes, Lunes et Corps célestes]]"
 aliases:
   - Lorus
+  - Lorush
 ---
 *(à compléter)*
 

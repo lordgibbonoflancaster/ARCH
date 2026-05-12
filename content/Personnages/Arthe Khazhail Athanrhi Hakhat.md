@@ -5,7 +5,7 @@ aliases:
   - Arthe
 ---
 ---
-- *Classification* : [[Personnages]]
+- *Classification* : #Personnages, [[Personnages]]
 - *Liens* : [[La Forge]]
 - *Période(s)* : Ère Archaïque (très peu), [[Ère Forgeraine]]
 - *Affiliation (optionel)* :

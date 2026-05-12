@@ -5,15 +5,18 @@ liens:
 aliases:
   - Alegeus
   - Halekeis
+  - Halekaish
+  - Hal'khaish
 ---
 ---
-- *Classification* : [[Personnages]]
+- *Classification* : #Personnages, [[Personnages]]
 - *Liens* : [[Santhe]], [[Guerre des poussières]], [[La Forge]], [[Mission de Sécurité Planétaire]]
 - *Période(s)* : [[Ère Archaïque]], [[Ère Forgeraine]], [[Ère Nocturne]] (très peu)
 - *Affiliation (optionel)* :
 - *Espèce ou origine* : [[Archelans|Archelan]]
 - *Date de naissance* : -18
 - *Date de décès :* 1184 (1202 ans)
+- *Alias* : Alegeus, Halekeis, Halekaish, Hal'khaish
 ---
 
 

@@ -10,6 +10,15 @@ aliases:
   - Le Royaume de Korris
   - Le Royaume de Korrin
 ---
+___
+- *Classification* : #Nations, [[Nations]]
+- *Période(s)* : [[Ère Archaïque]], [[Ère Forgeraine]]
+- *Localisation* : [[Garin|Korris]] (Monde capital de 0 à 1469)
+- *Territoires un jour conquis, contrôlés ou annexés* : [[Archelaus]] (moins de 1 an chaque fois), [[Erish|Lorus]] [[Jirialis|Jirial]], [[Elbasis]]
+- *Date de début* : -800?
+- *Date de fin (optionnel)* : 511
+---
+
 Glorieux, formidable, terrible, autant de qualificatifs utilisés pendant près de quinze siècles pour décrire le royaume de toute l'Humanité, qui à son apogée domina tous les mondes connus.
 
 ## Débuts *(environ -800 à -324)*
