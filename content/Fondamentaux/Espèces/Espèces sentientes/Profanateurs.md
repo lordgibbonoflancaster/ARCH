@@ -20,8 +20,8 @@ Les Profanateurs furent une espèce qui constitua une civilisation vile et déca
 
 Les Profanateurs furent des maîtres en énergies cosmiques et créèrent ainsi le [[Crépuscule]], inspiré par l'[[Archae]]. Puis la [[Magie]]. 
 
-Lorsque l'humanité réapparut avec [[Garin]], les Profanateurs les asservirent. 
-Grâce à leur incroyable maîtrise de la biologie, ils créèrent des variantes d'humains, comme les [[Vaals]] et les [[Archelans]], ainsi que des abominations pseudo-humaines pour satisfaire leur sens artistique dépravé, leur religion sombre et leurs penchants ignobles. 
+Lorsque [[Première renaissance Humaine|l'humanité réapparut]] avec [[Garin]], les Profanateurs [[Asservissement de l'Humanité par les profanateurs|les asservirent]]. 
+Grâce à leur incroyable maîtrise de la biologie, ils créèrent des variantes d'humains, comme les [[Vaals]] et les [[Archelans]], ainsi que des abominations pseudo-humaines pour satisfaire leur sens artistique dépravé, leur religion sombre et leurs penchants ignobles. Cet évènement est connu sous le nom de [[La Profanation|Profanation]], ce qui donna leur nom aux Profanateurs.
 
 Les Profanateurs disparurent lors de [[La Chute]], de façon soudaine et brutale, causée par les abus du Crépuscule, qui très vite s'étendit dans toute la civilisation des Profanateurs. Ceux-ci furent eux-mêmes corrompus et transformés en abominations cauchemardesques. 
 

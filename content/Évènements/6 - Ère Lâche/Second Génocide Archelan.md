@@ -5,14 +5,15 @@ timelines:
 aat-event-start-date: 1475
 tags:
   - Évènement
+aat-event-end-date: 1484
 ---
 ---
-- *Classification* : #Évènement, [[Évènements]], [[Fondation]], [[Changement Politique ou Culturel]]
-- *Liens* : [[Laurel]], [[Humains]], [[3e Royaume Laurelien]], [[L'Orfèvrerie]], [[La Cabale]]
+- *Classification* : #Évènement, [[Évènements]], [[Génocide]], [[Destruction]]
+- *Liens* : [[3e Royaume Laurelien]]
 - *Période(s)* : [[Ère Lâche]]
 - *Localisation(s)* : [[Archelaus]]
 - *Date de début* : 1475
-- *Date de fin (optionnel)* :
+- *Date de fin (optionnel)* : 1484
 ---
 
 ## Résumé

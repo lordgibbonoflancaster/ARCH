@@ -13,7 +13,7 @@ liens:
 - [[Double Invasion]]: 1184
 - [[Défaite de la Forge]]: 1184
 - [[Exode des Humains vers Garin]]: 1184 à 1191
-- [[Fondation de la 2e Humanité]]: 1184
+- [[Fondation du 2e Royaume Laurelien]]: 1184
 - [[Libération de l'Humanité]]: 1184
 - [[Fondation du Fer]]: 1185
 - [[Mort du premier Angon]]: 1185
@@ -25,7 +25,7 @@ liens:
 - [[Laurel prend le contrôle de la Ligue Garinienne]]: 1236
 - [[Modernisation du 2e Royaume Laurelien]]: 1236 à 1301
 - [[Redécouverte du cube-artéfact]]: 1236
-- [[Évènements/4 - Ère Nocturne/Réapparition de la Magie.md|Réapparition de la Magie]]: 1236
+- [[Réapparition de la Magie]]: 1236
 - [[1ère Réapparition du Crépuscule]]: 1301
 - [[Destruction de Garin]]: 1301
 - [[Libération du 2e Angon]]: 1301

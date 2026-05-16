@@ -3,8 +3,8 @@ liens:
   - "[[Ère Nocturne]]"
   - "[[Humains]]"
   - "[[Garin]]"
-  - "[[1er Royaume Laurelien]]"
   - "[[Laurel]]"
+  - "[[2e Royaume Laurelien]]"
 aat-render-enabled: true
 timelines:
   - chronologie
@@ -14,5 +14,4 @@ tags:
   - Fondation
   - Changement-politique-ou-culturel
 aliases:
-  - Fondation du 1er Royaume Laurelien
 ---

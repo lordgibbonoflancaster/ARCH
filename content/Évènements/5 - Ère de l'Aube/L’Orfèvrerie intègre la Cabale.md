@@ -8,7 +8,7 @@ tags:
 ---
 ---
 - *Classification* : #Évènement, [[Évènements]], [[Changement Politique ou Culturel]], [[Diplomatie]]
-- *Liens* : [[Magie]], [[L'Orfèvrerie]], [[Alliance Magique]]
+- *Liens* : [[Magie]], [[L'Orfèvrerie]], [[La Cabale]]
 - *Période(s)* : [[Ère de l'Aube]]
 - *Localisation(s)* : [[Archelaus]]
 - *Date de début* : 1474

@@ -30,6 +30,7 @@ liens:
 - [[Guerre Racino-Forge sur Erish]]: 1397
 - [[Création de Synthèse]]: 1400
 - [[Nomination de la 5e Angonne]]: 1400
+- [[Fondation de l'Ost d'Or]]: 1400
 - [[Mort de Sythèse]]: 1401
 - [[Mort de la 5e Angonne]]: 1401
 - [[Tremblements de terre massifs]]: 1401
@@ -49,18 +50,18 @@ liens:
 - [[Destruction d’Erish]]: 1469
 - [[Fuite du Marteau vers Archelaus]]: 1469
 - [[Bataille des Pétales ébènes]]: 1470
-- [[Vitrification du continent d’Ehran]]: 1470
-- [[Nouvelle disparition du Crépuscule]]: 1470
 - [[Invasion de L’Enclume sur Archelaus]]: 1470
 - [[Mort du 7e Angon]]: 1470
-- [[Nomination du 8e Angon]]: 1474
-- [[Guerre des myriades]]: 1474
-- [[Bataille des torrents]]: 1474
+- [[Nouvelle disparition du Crépuscule]]: 1470
+- [[Vitrification du continent d’Ehran]]: 1470
 - [[Bataille des roches célèstes]]: 1474
-- [[L’Orfèvrerie intègre l’Alliance Magique]]: 1474
-- [[Massacre des Roses Sanguines]]: 1475
-- [[Massacre de l’Orée Carmin]]: 1475
-- [[Génocide Philosophique]]: 1475
+- [[Bataille des torrents]]: 1474
+- [[Guerre des myriades]]: 1474
+- [[L’Orfèvrerie intègre la Cabale]]: 1474
+- [[Nomination du 8e Angon]]: 1474
 - [[Exus est enlevée puis torturée]]: 1475
+- [[Génocide Philosophique]]: 1475
+- [[Massacre de l’Orée Carmin]]: 1475
+- [[Massacre des Roses Sanguines]]: 1475
 
 <!-- SerializedQuery END -->

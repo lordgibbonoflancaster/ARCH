@@ -1,25 +1,29 @@
 ---
 liens:
-  - "[[Profanateurs]]"
+  - "[[Garin]]"
+  - "[[Humains]]"
   - "[[Ère Abjecte]]"
-aat-event-start-date: -10432
+aat-event-start-date: -2269
 aat-render-enabled: true
 timelines:
   - chronologie
 tags:
   - Évènement
+aliases:
+  - Apparition de Korris
 ---
 ---
 - *Classification* : #Évènement, [[Évènements]], [[Intervention du Petit Être]]
-- *Liens* : [[Profanateurs]]
+- *Liens* : [[Humains]], [[Garin|Korris]]
 - *Période(s)* : [[Ère Abjecte]]
-- *Localisation(s)* : ?
-- *Date de début* : -10432
+- *Localisation(s)* : [[Garin|Korris]]
+- *Date de début* : -2269
 - *Date de fin (optionnel)* :
 ---
 
 ## Résumé
-
+*à modifier*
+Apparition de Korris
 
 ## Contexte
 

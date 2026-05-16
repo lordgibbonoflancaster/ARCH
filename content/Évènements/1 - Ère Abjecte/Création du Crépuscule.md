@@ -9,5 +9,23 @@ timelines:
   - chronologie
 tags:
   - Évènement
-  - Invention-Découverte
 ---
+---
+- *Classification* : #Évènement, [[Évènements]], [[Invention, Découverte ou Exploration]]
+- *Liens* : [[Profanateurs]], [[Crépuscule]]
+- *Période(s)* : [[Ère Abjecte]]
+- *Localisation(s)* : ?
+- *Date de début* : -9657
+- *Date de fin (optionnel)* :
+---
+
+## Résumé
+
+
+## Contexte
+
+
+## Déroulement
+
+
+## Impact

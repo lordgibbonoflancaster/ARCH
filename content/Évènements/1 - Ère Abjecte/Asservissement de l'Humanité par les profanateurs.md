@@ -10,3 +10,22 @@ timelines:
 tags:
   - Évènement
 ---
+---
+- *Classification* : #Évènement, [[Évènements]], [[Guerre]], [[Génocide]]
+- *Liens* : [[Profanateurs]], [[Humains]]
+- *Période(s)* : [[Ère Abjecte]]
+- *Localisation(s)* : ?
+- *Date de début* : -2265
+- *Date de fin (optionnel)* :
+---
+
+## Résumé
+
+
+## Contexte
+
+
+## Déroulement
+
+
+## Impact

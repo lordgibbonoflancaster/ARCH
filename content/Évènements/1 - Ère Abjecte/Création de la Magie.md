@@ -9,5 +9,23 @@ timelines:
 aat-render-enabled: true
 tags:
   - Évènement
-  - Invention-Découverte
 ---
+---
+- *Classification* : #Évènement, [[Évènements]], [[Invention, Découverte ou Exploration]]
+- *Liens* : [[Magie]], [[Profanateurs]]
+- *Période(s)* : [[Ère Abjecte]]
+- *Localisation(s)* : ?
+- *Date de début* : -2260
+- *Date de fin (optionnel)* :
+---
+
+## Résumé
+
+
+## Contexte
+
+
+## Déroulement
+
+
+## Impact

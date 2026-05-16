@@ -8,13 +8,14 @@ liens:
 - [[Fondation de la Forge]]: 0
 - [[Fondation des trois États Archelans]]: 0 à 5
 - [[Premières Guerres Civiles Humaines]]: 0 à 150
-- [[Victoire Pyrrhique de Korris]]: 0
 - [[Abandon des possessions Humaines sur Lorus]]: 6
 - [[Découverte affiliation Humanoïdes]]: 7
 - [[Lois Forgeraines sur la repopulation]]: 7 à 10
 - [[Stérilisation des colonies Korrisiennes et Génocides]]: 7 à 12
 - [[Popularisation des Relieurs]]: 31
 - [[Découverte Forgeraine des États Archelans]]: 77
+- [[Début de la Mission de Sécurité Planétaire]]: 149
+- [[Fondation d'Interstice-1]]: 149 à 151
 - [[Attaques druidiques]]: 211 à 213
 - [[Auto-Exil de Halekeis sur Korrin]]: 213
 - [[Soulèvement de Ka'arat]]: 213
@@ -22,6 +23,7 @@ liens:
 - [[Bataille des Silences]]: 300
 - [[Grande Rupture]]: 300
 - [[Comission d'enquête et refonte d'Interstice]]: 301
+- [[Construction d'Interstice-2]]: 304
 - [[Chute Démographique Kai]]: 318
 - [[Fondations des cités Kai]]: 318 à 450
 - [[Grande Chasse]]: 318
