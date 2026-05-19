@@ -11,7 +11,7 @@ tags:
   - Évènement
 ---
 ---
-- *Classification* : #Évènement, [[Évènements]], [[Guerre]], [[Génocide]]
+- *Classification* : #Évènement, [[Évènements]], [[Guerre]], [[Génocides]]
 - *Liens* : [[Profanateurs]], [[Humains]]
 - *Période(s)* : [[Ère Abjecte]]
 - *Localisation(s)* : ?

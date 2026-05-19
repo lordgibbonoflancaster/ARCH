@@ -3,7 +3,7 @@
 
 - [[Archelaus]]
 - [[Garin]]/Korris/Korrin
-- [[Elbasis]]
+- [[Bazel]]
 - [[Jirialis|Jirial]]/Jirialis/Charn
 - [[Ae]]
 

@@ -8,7 +8,7 @@ tags:
 aat-event-end-date: 1590
 ---
 ---
-- *Classification* : #Évènement, [[Évènements]], [[Guerre]], [[Génocide]]
+- *Classification* : #Évènement, [[Évènements]], [[Guerre]], [[Génocides]]
 - *Liens* : [[3e Royaume Laurelien]], [[L'Ost d'Or]]
 - *Période(s)* : [[Ère Laurelienne]]
 - *Localisation(s)* : 

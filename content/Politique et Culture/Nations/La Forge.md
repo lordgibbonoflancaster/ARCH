@@ -8,7 +8,7 @@ ___
 - *Classification* : #Nations, [[Nations]]
 - *Période(s)* : [[Ère Forgeraine]], [[Ère Nocturne]], [[Ère de l'Aube]]
 - *Localisation* : [[Erish]] (Monde capital de 0 à 1469)
-- *Territoires un jour conquis, contrôlés ou annexés* : [[Archelaus]] (moins de 1 an chaque fois), [[Garin]], [[Jirialis|Jirial]], [[Elbasis]]
+- *Territoires un jour conquis, contrôlés ou annexés* : [[Archelaus]] (moins de 1 an chaque fois), [[Garin]], [[Jirialis|Jirial]], [[Bazel]]
 - *Date de début* : 0
 - *Date de fin (optionnel)* : 1475
 ---
@@ -55,3 +55,41 @@ Depuis les années 160, certaines religions inspirées des anciens cultes [[Vaal
 Tout empirera en 211 quand des fanatiques néo-druidiques commenceront à former des milices pour combattre les « hérétiques » et les « technocrates impies ». Le conflit s'embrasera avec plusieurs attentats organisés, souvent perpétrés par des enfants-soldats, les « anges », kidnappés, fanatisés et envoyés se battre sous drogue, nommée « miel des esprits ».
 
 Le gouvernement forgerain, d'abord paralysé par la surprise et son manque d'expérience en conflits internes, acquerra lentement l'avantage, jusqu'en 213, lorsque le dernier bastion néo-druidique à [[Kaarat|Ka'arat]], dirigé par *nom à trouver*, sera nettoyé par [[Halekeis Tsy'kar]]. [[Soulèvement de Ka'arat|L'évènement]] brisera ce dernier, qui, malgré une victoire totale sur le papier, la considérera comme un massacre de sa part et se retirera de la vie publique avant de s'engager dans la [[Mission de Sécurité Planétaire]], dans ce qu'il nommera plus tard un « auto-exil ».
+
+## Stagnation *(an 213 à 785)*
+*(à compléter)*
+
+La démographie se transforme profondément au fil des siècles. Les populations [hybrides](Erijis), nées des unions entre Archelans et Vaals, deviennent progressivement majoritaires.
+
+Les [[Vaals]] disparaissent lentement, dilués génétiquement dans cette masse hybride grandissante. Vers les années 400, ils ont cessé d'exister en tant que groupe distinct ; leurs descendants se fondent dans ce qui sera désormais appelé les [Erijis](Erijis).
+
+Les [[Archelans]], quant à eux, connaissent un déclin démographique plus précoce : leur faible taux de natalité les rend minoritaires dès les années 200. Pourtant, contrairement aux Vaals, ils ne disparaissent pas. Deux caractéristiques génétiques liées aux [Nanites Archelannes](Nanites Archelannes) expliquent cette persistance :
+
+- **Le non-vieillissement** : les Archelans ne meurent pas de vieillesse, ce qui compense leur faible renouvellement par la naissance.
+- **La dominance génétique** : lorsqu'un Archelan s'unit à un non-Archelan, l'enfant a environ une chance sur deux *(~50%)* de naître Archelan à part entière, au sang dit "pur", plutôt que comme hybride Eriji.
+
+Ainsi, même intégrés dans une société majoritairement Eriji et unis à ses membres, les Archelans continuent de produire des descendants qui leur ressemblent pleinement — assurant la survie de leur lignée sans nécessiter d'endogamie.
+
+Cet état de fait contribue à l'ostracisation des Archelans dans la société forgeraine, qui sont de plus en plus vus comme des "profiteurs" et des "parasites" par le reste de la population, qui voit d'un mauvais œil leur non-vieillissement, peut-être par jalousie. D'autres interprétations tendent vers l’accaparement de certaines positions sociales par les Archelans, la société forgeraine de cette époque ayant abandonné les durées maximales de mandats ou de services.
+
+Dans les années 500, quelques dizaines d'[[Humains]] sélectionnés dans le cadre de la [[Mission de Sécurité Planétaire]] rejoindront la Forge, souvent en tant qu'intellectuels ou d'artistes, devenus trop rares sur [[Erish|Lorus]]. Ces Humains, bien plus fertiles, se reproduiront très vite et apporteront un premier apport génétique aux populations Erijis.
+
+## Expansion *(an 785 à 827)*
+*(à compléter)*
+
+En 785, suite aux nombreux échecs de la [[Mission de Sécurité Planétaire]], les autorités forgeraines, bien éloignées des valeurs égalitaires, pacifiques et libertaires de jadis, décident de conquérir et annexer une bonne fois pour toutes [[Garin|Korris]], devenue trop dangereuse à leurs yeux. La [[Rafle d'argent]], comme nommée ultérieurement, verra la Forge "protéger" l'[[Humains|Humanité]] d'elle-même, mais surtout empêcher enfin les Humains de se relever. Nombre d'entre eux seront déportés sur [[Erish|Lorus]], puis, plus tard, sur d'autres Mondes colonisés par la Forge, souvent difficiles à vivre. Les Humains seront utilisés comme main d'œuvre bon marché. Cependant, la Rafle d'argent tournera mal. Les Humains encore sur Korris, dans leur recherche d'une solution contre les envahisseurs forgerains, redécouvriront une technologie [[Profanateurs|profanatrice]] qui déploiera une [[Grande Mort|pandémie mortelle]] sur tout Korris. Cette maladie exterminera toute la population korrisienne, Humains comme Erijis, sans exceptions. Korris devient inhabitable.
+
+Les marées planétaires devenant de plus en plus violentes sur [[Erish|Lorus]] au fil des siècles, et Korris n'étant plus habitable à cause de la Grande Mort, la Forge lancera de 825 à 826 la colonisation des planètes vitrifiées par les Humains durant les [[Premières Guerres Civiles Humaines]], tels que [[Bazel]] et [[Jirialis]]. Ces modes morts et calcinés depuis des siècles demanderont des investissements énormes de la Forge, qui, couplés aux affaiblissements institutionnels et administratifs de la nation, provoqueront les [[Grandes Pénuries]] des années 825, 826 et 827. 
+
+Ces pénuries, amplifiées par les troubles politiques dus à l'arrivée massive d'Humains sur Lorus et aux violences raciales de plus en plus grandes envers les derniers [[Archelans]] forgerains, donneront naissance à des [[Pogroms Archelans dans La Forge|pogroms]] envers ces derniers dès 826. Ceux-ci se répandront massivement dans toute la Forge. Par complicité, le gouvernement fermera les yeux sur le problème et ne sauvera que de rares éléments, tels que [[Halekeis Tsy'kar]], évacué vers [[Archelaus]] pour *(encore)* servir en secret les intérêts de la Forge. Ainsi a lieu le [[Second Génocide Archelan]], qui se termine en 827 par l'extermination quasi-totale des [[Archelans]] dans toute la Forge. Lors des décennies suivantes, les derniers survivants seront soient pourchassés et éliminés par des foules en colère, soit fuiront vers Archelaus.
+
+## Seconde stagnation *(an 827 à 1181)*
+*(à compléter)*
+
+Pendant les trois derniers siècles de l'[[Ère Forgeraine]], la Forge stagne de nouveau, trop occupée à tenter la colonisation de [[Bazel]], [[Jirialis]] et les autres mondes vides. La vie y est dure et les [[Humains]] sont de plus en plus asservis. Paradoxalement, les [[Erijis]] reçoivent un second apport génétique des Humains, bien plus massif. En effet, l'oppression des seconds par les premiers n'empêche pas des échanges génétiques. Les deux cultures restent séparées cependant, effet amplifié par un apartheid institutionnalisé. La culture forgeraine reste peu influencée par les cultures humaines, tandis que ces dernières se voient profondément altérée pour le commun peuple. L'impact se voit sur la linguistique *insérer lien vers les langues humaines Erisiennes du 9e au 12e siècle)*. Les élites religieuses humaines, cependant, cultivent et subliment une culture humaine fantasmée, inspirée du [[Le Grand-Royaume de Korris|vieux Royaume]] d'antan.
+
+Pendant ce temps, l'atmosphère de [[Erish|Lorus]], appelée *Erish* depuis quelques siècles, continue de se raréfier et les effets de marée s'amplifient, causant des tremblements de terre de plus en plus fréquents et intenses qui, vers les années 1150, causeront des dizaines de milliers de morts.
+
+Pendant les années 1170, les autorités Forgeraines, ne parvenant toujours pas à déplacer la population Erisienne vers les mondes morts de Bazel et de Jirialis, commencent à tourner le regard vers [[Archelaus]], qui, elle, est bien plus habitable... et habitée.
+
+Malgré la quasi-disparition des innovations technologiques forgeraines, cette période coïncide avec une dernière percée en stockage de l'énergie, notamment des [[Super-Condensateurs Miniaturisés]], qui permettent enfin de concevoir des canons magnétiques portatifs, les [[Mousquets Magnétiques]], ou MM. Cette invention révolutionnaire rompra, pour la première fois depuis des millénaires, avec les traditions martiales incluant épées, arcs et lances pour les soldats, aussi perfectionnées soient-elles *(voir [[Ordre des Chevaliers d'argent]])*.

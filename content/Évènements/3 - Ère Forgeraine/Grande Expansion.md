@@ -2,7 +2,7 @@
 liens:
   - "[[Ère Forgeraine]]"
   - "[[La Forge]]"
-  - "[[Elbasis]]"
+  - "[[Bazel]]"
   - "[[Jirialis|Jirial]]"
 aat-render-enabled: true
 timelines:

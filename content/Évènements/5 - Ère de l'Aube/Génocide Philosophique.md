@@ -7,7 +7,7 @@ tags:
   - Évènement
 ---
 ---
-- *Classification* : #Évènement, [[Évènements]], [[Génocide]]
+- *Classification* : #Évènement, [[Évènements]], [[Génocides]]
 - *Liens* : [[L'Orfèvrerie]], [[Le Marteau]], [[Erijis]], [[Laurel]], [[Second Pourfendeur|Démon d'or]]
 - *Période(s)* : [[Ère de l'Aube]]
 - *Localisation(s)* : [[Archelaus]]

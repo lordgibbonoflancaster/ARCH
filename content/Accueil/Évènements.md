@@ -7,10 +7,11 @@
 - ## [[Destruction]]
 - ## [[Diplomatie]] 
 - ## [[Fondation]]
-- ## [[Génocide]]
+- ## [[Génocides]]
 - ## [[Guerre]] 
 - ## [[Intervention du Petit Être]]
 - ## [[Invention, Découverte ou Exploration]]
 - ## [[Révolution, Sécession ou Guerre Civile]]
 - ## [[Tensions et Escarmouches]]
+- ## [[Épidémies]]
 

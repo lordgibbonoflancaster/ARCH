@@ -8,7 +8,7 @@ tags:
 aat-event-end-date: 1559
 ---
 ---
-- *Classification* : #Évènement, [[Évènements]], [[Guerre]], [[Destruction]], [[Génocide]]
+- *Classification* : #Évènement, [[Évènements]], [[Guerre]], [[Destruction]], [[Génocides]]
 - *Liens* : [[3e Royaume Laurelien]], [[L'Ost d'Or]]
 - *Période(s)* : [[Ère Lâche]]
 - *Localisation(s)* : [[Archelaus]]

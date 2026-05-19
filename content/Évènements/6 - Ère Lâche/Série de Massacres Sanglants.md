@@ -8,7 +8,7 @@ tags:
 aat-event-end-date: 1484
 ---
 ---
-- *Classification* : #Évènement, [[Évènements]], [[Destruction]], [[Bataille]], [[Génocide]], [[Guerre]]
+- *Classification* : #Évènement, [[Évènements]], [[Destruction]], [[Bataille]], [[Génocides]], [[Guerre]]
 - *Liens* : [[Exus|La Veuve Pourpre]], [[Crépuscule]]
 - *Période(s)* : [[Ère Lâche]]
 - *Localisation(s)* : [[Archelaus]]

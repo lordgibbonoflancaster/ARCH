@@ -2,7 +2,7 @@
 liens:
   - "[[Le Grand-Royaume de Korris]]"
   - "[[Humains]]"
-  - "[[Elbasis]]"
+  - "[[Bazel]]"
   - "[[Ère Forgeraine]]"
 aat-render-enabled: true
 timelines:

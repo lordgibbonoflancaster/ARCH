@@ -10,7 +10,7 @@ tags:
 - *Classification* : #Évènement, [[Évènements]], [[Révolution, Sécession ou Guerre Civile]]
 - *Liens* : [[3e Royaume Laurelien]], [[L'Ost d'Or]], [[Théodebald]]
 - *Période(s)* : [[Ère Lâche]]
-- *Localisation(s)* : Espace, [[Archelaus]], [[Elbasis]], [[Jirialis|Charn]]
+- *Localisation(s)* : Espace, [[Archelaus]], [[Bazel]], [[Jirialis|Charn]]
 - *Date de début* : 1559
 - *Date de fin (optionnel)* : 
 ---

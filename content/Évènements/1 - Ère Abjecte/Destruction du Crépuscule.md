@@ -14,7 +14,7 @@ tags:
 - *Classification* : #Évènement, [[Évènements]], [[Destruction]], [[Intervention du Petit Être]]
 - *Liens* : [[Petit-Être]], [[Crépuscule]], [[La Chute]]
 - *Période(s)* : [[Ère Abjecte]]
-- *Localisation(s)* : [[Archelaus]], [[Garin|Korris]], [[Erish|Lorus]],  [[Elbasis]], [[Jirialis|Jirial]] et toutes les mondes connus.
+- *Localisation(s)* : [[Archelaus]], [[Garin|Korris]], [[Erish|Lorus]],  [[Bazel]], [[Jirialis|Jirial]] et toutes les mondes connus.
 - *Date de début* : -1048
 - *Date de fin (optionnel)* : -1045
 ---

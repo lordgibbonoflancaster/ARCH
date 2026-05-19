@@ -16,7 +16,7 @@ Espèce ancienne et disparue, qui a pendant près de cent siècles dominé, écr
 
 ## Histoire
 
-Les Profanateurs furent une espèce qui constitua une civilisation vile et décadente, formée en -10432 lors de leur apparition. Ces précurseurs s'étendirent dans l'univers pendant 9000 ans, semant des parcelles de civilisation sur [[Archelaus]], [[Erish]], [[Elbasis]], [[Jirialis]] et bien plus encore. Leurs ruines parsèment encore ces planètes. 
+Les Profanateurs furent une espèce qui constitua une civilisation vile et décadente, formée en -10432 lors de leur apparition. Ces précurseurs s'étendirent dans l'univers pendant 9000 ans, semant des parcelles de civilisation sur [[Archelaus]], [[Erish]], [[Bazel]], [[Jirialis]] et bien plus encore. Leurs ruines parsèment encore ces planètes. 
 
 Les Profanateurs furent des maîtres en énergies cosmiques et créèrent ainsi le [[Crépuscule]], inspiré par l'[[Archae]]. Puis la [[Magie]]. 
 

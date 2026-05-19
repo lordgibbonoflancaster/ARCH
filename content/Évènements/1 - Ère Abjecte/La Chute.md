@@ -12,10 +12,10 @@ tags:
   - Évènement
 ---
 ---
-- *Classification* : #Évènement, [[Évènements]], [[Destruction]], [[Génocide]]
+- *Classification* : #Évènement, [[Évènements]], [[Destruction]], [[Génocides]]
 - *Liens* : [[Profanateurs]], [[Crépuscule]]
 - *Période(s)* : [[Ère Abjecte]]
-- *Localisation(s)* : [[Archelaus]], [[Garin|Korris]], [[Erish|Lorus]],  [[Elbasis]], [[Jirialis|Jirial]] et toutes les mondes connus.
+- *Localisation(s)* : [[Archelaus]], [[Garin|Korris]], [[Erish|Lorus]],  [[Bazel]], [[Jirialis|Jirial]] et toutes les mondes connus.
 - *Date de début* : -1048
 - *Date de fin (optionnel)* : -1045
 ---

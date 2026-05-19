@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Elbasis]]"
+  - "[[Bazel]]"
   - "[[Ère Archaïque]]"
   - "[[Humains]]"
   - "[[Le Grand-Royaume de Korris]]"

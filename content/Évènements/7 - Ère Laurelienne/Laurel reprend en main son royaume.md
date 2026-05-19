@@ -11,7 +11,7 @@ aat-event-end-date: 1567
 - *Classification* : #Évènement, [[Évènements]], [[Changement Politique ou Culturel]]
 - *Liens* : [[3e Royaume Laurelien]], [[Rébellion du sang d’airain]], [[Laurel]]
 - *Période(s)* : [[Ère Laurelienne]]
-- *Localisation(s)* : [[Archelaus]], [[Jirialis|Charn]], [[Elbasis]]. Espace
+- *Localisation(s)* : [[Archelaus]], [[Jirialis|Charn]], [[Bazel]]. Espace
 - *Date de début* : 1559
 - *Date de fin (optionnel)* : 1567
 ---

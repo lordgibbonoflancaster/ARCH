@@ -2,7 +2,7 @@
 liens:
   - "[[Le Serment]]"
   - "[[Le Grand-Royaume de Korris]]"
-  - "[[Elbasis]]"
+  - "[[Bazel]]"
   - "[[Guerre de secession d'Elbasis]]"
   - "[[Ère Archaïque]]"
 aat-render-enabled: true
