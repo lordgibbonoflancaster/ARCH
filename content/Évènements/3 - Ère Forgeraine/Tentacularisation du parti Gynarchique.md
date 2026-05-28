@@ -4,7 +4,7 @@ liens:
   - "[[Kai]]"
   - "[[Ère Forgeraine]]"
   - "[[Instauration de la Patriarchie Kai]]"
-  - "[[Sugone|La Pieuvre]]"
+  - "[[Arazhabat|La Pieuvre]]"
   - "[[Guerre Civile Kai]]"
 aat-render-enabled: true
 timelines:

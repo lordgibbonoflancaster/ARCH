@@ -29,8 +29,8 @@ liens:
 - [[Fuite de Racine dans L’Abysse]]: 1397
 - [[Guerre Racino-Forge sur Erish]]: 1397
 - [[Création de Synthèse]]: 1400
-- [[Nomination de la 5e Angonne]]: 1400
 - [[Fondation de l'Ost d'Or]]: 1400
+- [[Nomination de la 5e Angonne]]: 1400
 - [[Mort de Sythèse]]: 1401
 - [[Mort de la 5e Angonne]]: 1401
 - [[Tremblements de terre massifs]]: 1401
@@ -44,9 +44,9 @@ liens:
 - [[Montée au pouvoir du 7e Angon sur L’Aube]]: 1447
 - [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
 - [[Guerre Civile Forgeraine]]: 1466 à 1470
-- [[2e Réapparition du Crépuscule]]: 1467
 - [[Aube éclipsée]]: 1467
 - [[Le 7e Angon devient esclave de L’Enclume]]: 1467
+- [[2e Résurgence du Crépuscule]]: 1467
 - [[Destruction d’Erish]]: 1469
 - [[Fuite du Marteau vers Archelaus]]: 1469
 - [[Bataille des Pétales ébènes]]: 1470

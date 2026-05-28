@@ -10,7 +10,7 @@ tags:
 - *Classification* : #Évènement, [[Évènements]], [[Révolution, Sécession ou Guerre Civile]]
 - *Liens* : [[3e Royaume Laurelien]], [[Théodebald]], [[Rébellion du sang d’airain]], [[Laurel]]
 - *Période(s)* : [[Ère Lâche]]
-- *Localisation(s)* : [[Jirialis|Charn]]
+- *Localisation(s)* : [[Zier|Charn]]
 - *Date de début* : 1559
 - *Date de fin (optionnel)* : 
 ---

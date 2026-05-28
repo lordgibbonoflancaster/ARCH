@@ -3,7 +3,7 @@ liens:
   - "[[Ère Forgeraine]]"
   - "[[La Forge]]"
   - "[[Bazel]]"
-  - "[[Jirialis|Jirial]]"
+  - "[[Zier|Jirial]]"
 aat-render-enabled: true
 timelines:
   - chronologie

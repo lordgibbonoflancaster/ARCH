@@ -14,7 +14,7 @@ ___
 - *Classification* : #Nations, [[Nations]]
 - *Période(s)* : [[Ère Archaïque]], [[Ère Forgeraine]]
 - *Localisation* : [[Garin|Korris]] (Monde capital de 0 à 1469)
-- *Territoires un jour conquis, contrôlés ou annexés* : [[Archelaus]] (moins de 1 an chaque fois), [[Erish|Lorus]] [[Jirialis|Jirial]], [[Bazel]]
+- *Territoires un jour conquis, contrôlés ou annexés* : [[Archelaus]] (moins de 1 an chaque fois), [[Erish|Lorus]] [[Zier|Jirial]], [[Bazel]]
 - *Date de début* : -800?
 - *Date de fin (optionnel)* : 511
 ---
@@ -27,7 +27,7 @@ Malgré de nombreuses recherches, rares sont les informations sur les débuts du
 
 ## Ascension *(-324 à 0)*
 
-Dès -324, le roi Humain Arcturien, se basant sur des nouveaux Plans lui permettant de concevoir des vaisseaux spatiaux, lance la première conquête planétaire. Jusqu'en -321, le nouvellement nommé "Grand Royaume de l'Humanité" conquiert ses premières planètes, [[Jirialis|Jirialin]] et [[Bazel]], en éradiquant les espèces qui y vivaient. Le Grand-Royaume se basera ensuite sur ce modèle pour toutes ses autres conquêtes. 
+Dès -324, le roi Humain Arcturien, se basant sur des nouveaux Plans lui permettant de concevoir des vaisseaux spatiaux, lance la première conquête planétaire. Jusqu'en -321, le nouvellement nommé "Grand Royaume de l'Humanité" conquiert ses premières planètes, [[Zier|Jirialin]] et [[Bazel]], en éradiquant les espèces qui y vivaient. Le Grand-Royaume se basera ensuite sur ce modèle pour toutes ses autres conquêtes. 
 
 Malgré la [[Guerre de secession d'Elbasis]] en -24 et des luttes intestines de plus en plus nombreuses, le Grand-Royaume continue sa course en avant, poussé par une noblesse avide de nouvelles terres, de gloire, mais surtout de pouvoir. 
 

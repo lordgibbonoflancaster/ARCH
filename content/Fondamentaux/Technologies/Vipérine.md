@@ -5,8 +5,8 @@ liens:
 
 ---
 - *Classification* : #Technologie, [[Technologies]]
-- *Liens* : [[Archelans]], [[Vipérine]]
+- *Liens* : [[Archelans]], [[Archelaus]], [[Archae]], [[Le Phael]]
 - *Inventeur.ice(s)* : ?
 - *Date(s) d'invention(s) (si connues)* : -40 000 ?
-- *Date de (re)découverte scientifique postérieure* : 7 ([[La Forge]]), 835 ([[Le Phael]] puis les autres États Archélaüsiens)
+- *Date de (re)découverte scientifique postérieure* : -900 ? (États Archélaüsiens Archaïques)
 ---

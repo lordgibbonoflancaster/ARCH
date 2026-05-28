@@ -4,7 +4,7 @@
 - [[Archelaus]]
 - [[Garin]]/Korris/Korrin
 - [[Bazel]]
-- [[Jirialis|Jirial]]/Jirialis/Charn
+- [[Zier|Jirial]]/Jirialis/Charn
 - [[Ae]]
 
 ## Lunes habitables

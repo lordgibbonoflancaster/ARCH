@@ -9,6 +9,6 @@ liens:
 - *Affiliation (optionel)* :
 - *Espèce ou origine* : [[Vaals|Vaal]]
 - *Date de naissance* : -52
-- *Date de décès :* 32 (848 ans)
+- *Date de décès :* 32 (84 ans)
 ---
 

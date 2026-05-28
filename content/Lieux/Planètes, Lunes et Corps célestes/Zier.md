@@ -2,7 +2,8 @@
 liens:
   - "[[Planètes, Lunes et Corps célestes]]"
 aliases:
-  - Jirial
-  - Jirialin
+  - Zieran
+  - Zierus
+  - Zhir
   - Charn
 ---

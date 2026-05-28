@@ -3,7 +3,7 @@ liens:
   - "[[Kai]]"
   - "[[Guerre Civile Kai]]"
   - "[[Ère Forgeraine]]"
-  - "[[Sugone|La Pieuvre]]"
+  - "[[Arazhabat|La Pieuvre]]"
 aat-render-enabled: true
 timelines:
   - chronologie
