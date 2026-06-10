@@ -1,7 +1,7 @@
 
 Dans cet univers, plusieurs espèces vivent, s'hybrident, apparaissent et disparaissent.
 
-**Liste des espèces sentientes :
+**Liste des espèces sentientes** :
 - [[Humains]]
 - [[Archelans]]
 - [[Vaals]]
@@ -9,5 +9,5 @@ Dans cet univers, plusieurs espèces vivent, s'hybrident, apparaissent et dispar
 - [[Profanateurs]]
 - [[Pourfendeurs]]
 
-**Liste des espèces non-sentientes :
+**Liste des espèces non-sentientes** :
 - [[Mécanides]]
