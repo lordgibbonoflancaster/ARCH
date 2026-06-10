@@ -1,6 +1,5 @@
 ---
 title: Accueil
-socialImage: "/Accueil/ARCH.png"
 ---
 
 # Bienvenue sur le Wiki !

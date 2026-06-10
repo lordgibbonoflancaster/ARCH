@@ -59,11 +59,11 @@ Le gouvernement forgerain, d'abord paralysé par la surprise et son manque d'exp
 ## Stagnation *(an 213 à 785)*
 *(à compléter)*
 
-La démographie se transforme profondément au fil des siècles. Les populations [hybrides](Erijis), nées des unions entre Archelans et Vaals, deviennent progressivement majoritaires.
+La démographie se transforme profondément au fil des siècles. Les populations [[Erijis|hybrides]], nées des unions entre Archelans et Vaals, deviennent progressivement majoritaires.
 
-Les [[Vaals]] disparaissent lentement, dilués génétiquement dans cette masse hybride grandissante. Vers les années 400, ils ont cessé d'exister en tant que groupe distinct ; leurs descendants se fondent dans ce qui sera désormais appelé les [Erijis](Erijis).
+Les [[Vaals]] disparaissent lentement, dilués génétiquement dans cette masse hybride grandissante. Vers les années 400, ils ont cessé d'exister en tant que groupe distinct ; leurs descendants se fondent dans ce qui sera désormais appelé les [[Erijis]].
 
-Les [[Archelans]], quant à eux, connaissent un déclin démographique plus précoce : leur faible taux de natalité les rend minoritaires dès les années 200. Pourtant, contrairement aux Vaals, ils ne disparaissent pas. Deux caractéristiques génétiques liées aux [Nanites Archelannes](Nanites Archelannes) expliquent cette persistance :
+Les [[Archelans]], quant à eux, connaissent un déclin démographique plus précoce : leur faible taux de natalité les rend minoritaires dès les années 200. Pourtant, contrairement aux Vaals, ils ne disparaissent pas. Deux caractéristiques génétiques liées aux [[Nanites Archelannes]] expliquent cette persistance :
 
 - **Le non-vieillissement** : les Archelans ne meurent pas de vieillesse, ce qui compense leur faible renouvellement par la naissance.
 - **La dominance génétique** : lorsqu'un Archelan s'unit à un non-Archelan, l'enfant a environ une chance sur deux *(~50%)* de naître Archelan à part entière, au sang dit "pur", plutôt que comme hybride Eriji.
