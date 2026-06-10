@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: 'true'
           fetch-depth: 0 # Fetch all history
@@ -27,7 +27,7 @@ jobs:
           cp quartz.config.ts quartz.layout.ts quartz
           cp -rf content/* quartz/content/
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 'lts/*'
           cache: 'npm'
@@ -39,7 +39,7 @@ jobs:
         run: npx quartz build
         working-directory: quartz
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: quartz/public
 
