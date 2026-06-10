@@ -13,7 +13,7 @@ liens:
 - [[Persécutions des Humains]]: 1370 à 1375
 - [[Sécession du Fer et Création de l'Acier]]: 1370
 - [[Élection du futur 4e Angon comme Premier Archelan]]: 1370
-- [[Découverte de l'Abysse par Racine]]: 1372
+- [[Découverte de l'Abysse et de l'Oru par Racine]]: 1372
 - [[Nuit vermeille]]: 1374
 - [[Coup d’État et Exil du 4e Angon]]: 1375
 - [[Le 4e Angon rejoint l'Acier]]: 1375
@@ -44,9 +44,9 @@ liens:
 - [[Montée au pouvoir du 7e Angon sur L’Aube]]: 1447
 - [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
 - [[Guerre Civile Forgeraine]]: 1466 à 1470
+- [[2e Résurgence du Crépuscule]]: 1467
 - [[Aube éclipsée]]: 1467
 - [[Le 7e Angon devient esclave de L’Enclume]]: 1467
-- [[2e Résurgence du Crépuscule]]: 1467
 - [[Destruction d’Erish]]: 1469
 - [[Fuite du Marteau vers Archelaus]]: 1469
 - [[Bataille des Pétales ébènes]]: 1470

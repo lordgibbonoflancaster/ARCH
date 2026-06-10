@@ -5,6 +5,8 @@ liens:
   - "[[Archelans]]"
   - "[[Archelaus]]"
   - "[[Nations]]"
+aliases:
+  - Gynarchie Kai
 ---
 ___
 - *Classification* : #Nations, [[Nations]]

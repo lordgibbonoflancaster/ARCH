@@ -3,7 +3,7 @@
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Abjecte]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Abjecte]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Disparition de l'Humanité Originelle]]: -200000
-- [[Conception de l'Archae]]: -200000
+- [[Conception de l'Archae]]: -40000
 - [[Apparition des Profanateurs]]: -10432
 - [[Création du Crépuscule]]: -9657
 - [[Première renaissance Humaine]]: -2269
@@ -126,12 +126,12 @@
 - [[Modernisation du 2e Royaume Laurelien]]: 1236 à 1301
 - [[Redécouverte du cube-artéfact]]: 1236
 - [[Réapparition de la Magie]]: 1236
+- [[1ère Résurgence du Crépuscule]]: 1301
 - [[Destruction de Garin]]: 1301
 - [[Libération du 2e Angon]]: 1301
 - [[Mort de la Magie]]: 1301
 - [[Mort du 2e Angon]]: 1301
 - [[Redisparition du Crépuscule]]: 1301
-- [[1ère Résurgence du Crépuscule]]: 1301
 - [[Fondation de Racine]]: 1302
 - [[Réfugiés Humains sur Archelaus]]: 1302
 - [[Ingérence Forgeraine chez Beahe]]: 1304 à 1324
@@ -155,7 +155,7 @@
 - [[Persécutions des Humains]]: 1370 à 1375
 - [[Sécession du Fer et Création de l'Acier]]: 1370
 - [[Élection du futur 4e Angon comme Premier Archelan]]: 1370
-- [[Découverte de l'Abysse par Racine]]: 1372
+- [[Découverte de l'Abysse et de l'Oru par Racine]]: 1372
 - [[Nuit vermeille]]: 1374
 - [[Coup d’État et Exil du 4e Angon]]: 1375
 - [[Le 4e Angon rejoint l'Acier]]: 1375
@@ -186,9 +186,9 @@
 - [[Montée au pouvoir du 7e Angon sur L’Aube]]: 1447
 - [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
 - [[Guerre Civile Forgeraine]]: 1466 à 1470
+- [[2e Résurgence du Crépuscule]]: 1467
 - [[Aube éclipsée]]: 1467
 - [[Le 7e Angon devient esclave de L’Enclume]]: 1467
-- [[2e Résurgence du Crépuscule]]: 1467
 - [[Destruction d’Erish]]: 1469
 - [[Fuite du Marteau vers Archelaus]]: 1469
 - [[Bataille des Pétales ébènes]]: 1470
@@ -246,14 +246,15 @@
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Disparition de l'Humanité Originelle]]: -200000
+- [[Conception de l'Archae]]: -40000
 - [[Apparition des Profanateurs]]: -10432
 - [[Création du Crépuscule]]: -9657
 - [[Première renaissance Humaine]]: -2269
 - [[Asservissement de l'Humanité par les profanateurs]]: -2265
 - [[Création de la Magie]]: -2260
 - [[La Profanation]]: -2220 à -1048
-- [[Destruction du Crépuscule]]: -1048 à -1045
 - [[La Chute]]: -1048 à -1045
+- [[Destruction du Crépuscule]]: -1048 à -1045
 - [[Naissance des premiers États Archelans, Humains et Vaals]]: -1044 à -1019
 - [[Petit Conditionnement]]: -1030 à 450
 - [[Ère Œcuménique]]: -535 à -368
@@ -271,10 +272,10 @@
 - [[Premières Guerres Civiles Humaines]]: 0 à 150
 - [[Fondation des trois États Archelans]]: 0 à 5
 - [[Fondation de la Forge]]: 0
-- [[L'Éclat]]: 0
 - [[Victoire Pyrrhique de Korris]]: 0
 - [[Premier Génocide Archelan]]: 0
 - [[Libération des Méchanides sur Archelaus]]: 0
+- [[L'Éclat]]: 0
 - [[Abandon des possessions Humaines sur Lorus]]: 6
 - [[Stérilisation des colonies Korrisiennes et Génocides]]: 7 à 12
 - [[Lois Forgeraines sur la repopulation]]: 7 à 10
@@ -298,8 +299,8 @@
 - [[Apogée Béaheènne]]: 335 à 342
 - [[Recul de la culture Béaheènne]]: 342 à 448
 - [[La Frénésie]]: 342
-- [[Rafle d'argent]]: 785 à 796
 - [[Retour d'Alegeus sur Lorus]]: 785
+- [[Rafle d'argent]]: 785 à 796
 - [[Tentacularisation du parti Gynarchique]]: 786 à 788
 - [[Instauration de la Patriarchie Kai]]: 786
 - [[Gynarchisation des Relieurs Internes]]: 786 à 788
@@ -342,8 +343,8 @@
 - [[Libération de l'Humanité]]: 1184
 - [[Fondation du 2e Royaume Laurelien]]: 1184
 - [[Exode des Humains vers Garin]]: 1184 à 1191
-- [[Double Invasion]]: 1184
 - [[Défaite de la Forge]]: 1184
+- [[Double Invasion]]: 1184
 - [[Disparition des Ékanides]]: 1184
 - [[Mort du premier Angon]]: 1185
 - [[Fondation du Fer]]: 1185
@@ -379,13 +380,13 @@
 - [[Persécutions des Humains]]: 1370 à 1375
 - [[Fondation de l’Empire de l’Aube]]: 1370
 - [[Corruption du Fer]]: 1370 à 1377
-- [[Découverte de l'Abysse par Racine]]: 1372
+- [[Découverte de l'Abysse et de l'Oru par Racine]]: 1372
 - [[Nuit vermeille]]: 1374
 - [[Nomination du 4e Angon]]: 1375
 - [[Le 4e Angon rejoint l'Acier]]: 1375
 - [[Coup d’État et Exil du 4e Angon]]: 1375
-- [[Reconquête de l’Empire]]: 1376
 - [[Seconde Guerre Archelanne]]: 1376 à 1377
+- [[Reconquête de l’Empire]]: 1376
 - [[Mort du 4e Angon]]: 1376
 - [[Bataille d’Arunai]]: 1376
 - [[Traité de l'Azur]]: 1377
@@ -397,9 +398,9 @@
 - [[Nomination de la 5e Angonne]]: 1400
 - [[Fondation de l'Ost d'Or]]: 1400
 - [[Création de Synthèse]]: 1400
-- [[Tremblements de terre massifs]]: 1401
 - [[Mort de Sythèse]]: 1401
 - [[Mort de la 5e Angonne]]: 1401
+- [[Tremblements de terre massifs]]: 1401
 - [[Création de l’Orfèvre]]: 1410
 - [[La future 6e Angonne élabore Le Pourfendeur]]: 1423
 - [[L'Orfèvre crée sa première forme physique]]: 1423
@@ -423,23 +424,23 @@
 - [[Nomination du 8e Angon]]: 1474
 - [[L’Orfèvrerie intègre la Cabale]]: 1474
 - [[Guerre des myriades]]: 1474
-- [[Bataille des roches célèstes]]: 1474
 - [[Bataille des torrents]]: 1474
+- [[Bataille des roches célèstes]]: 1474
+- [[Troisième Génocide Archelan]]: 1475 à 1484
+- [[Évènements/6 - Ère Lâche/Second Génocide Archelan.md|Second Génocide Archelan]]: 1475 à 1484
+- [[Fondation du 3e Royaume Laurelien]]: 1475
 - [[Massacre des Roses Sanguines]]: 1475
 - [[Massacre de l’Orée Carmin]]: 1475
 - [[Génocide Philosophique]]: 1475
 - [[Exus est enlevée puis torturée]]: 1475
-- [[Troisième Génocide Archelan]]: 1475 à 1484
-- [[Évènements/6 - Ère Lâche/Second Génocide Archelan.md|Second Génocide Archelan]]: 1475 à 1484
-- [[Fondation du 3e Royaume Laurelien]]: 1475
 - [[Grand Conditionnement Humain]]: 1476 à 1484
 - [[Série de Massacres Sanglants]]: 1480 à 1484
 - [[Libération de la Veuve Pourpre]]: 1480
 - [[Arfurelle pourchasse la Veuve Pourpre]]: 1483
 - [[Période de relâchement de Laurel]]: 1484 à 1559
 - [[Progression de l'Ultra-Libéralisme]]: 1484 à 1559
-- [[Mort de La Veuve Pourpre]]: 1484
 - [[Police de la cohérence]]: 1484 à 1559
+- [[Mort de La Veuve Pourpre]]: 1484
 - [[Conquête des cercles proches de L’Arbre des Mondes]]: 1484 à 1559
 - [[Arfurelle est trahie et exécutée]]: 1484
 - [[Théodebald traque la Pourfendeuse Carmin]]: 1558

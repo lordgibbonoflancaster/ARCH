@@ -6,6 +6,7 @@ liens:
 ---
 ---
 - *Classification* : [[Continents, Régions et Zones géographiques]] #Continents_Régions_et_Zones_Géographiques 
+- *Sous-Classification* : Continent
 - *Liens* : [[Le Grand-Royaume de Korris]]
 - *Localisation* : [[Garin|Korris]]
 ---
