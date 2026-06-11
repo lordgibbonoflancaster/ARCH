@@ -1,6 +1,0 @@
----
-liens:
-  - "[[Nations]]"
-  - "[[Personnages]]"
-  - "[[Racine]]"
----

@@ -1,5 +1,0 @@
----
-liens:
-  - "[[Nations]]"
-  - "[[Humains]]"
----
